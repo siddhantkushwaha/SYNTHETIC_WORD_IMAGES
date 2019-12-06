@@ -1,0 +1,704 @@
+
+Lockheed SR-71 Blackbird
+From Wikipedia, the free encyclopedia
+  (Redirected from SR71)
+Jump to navigationJump to search
+"SR-71" redirects here. For other uses, see SR-71 (disambiguation).
+SR-71 "Blackbird"
+Dryden's SR-71B Blackbird, NASA 831, slices across the snow-covered southern Sierra Nevada Mountains of California after being refueled by an Air Force tanker during a 1994 flight. SR-71B was the trainer version of the SR-71. The dual cockpit allows the instructor to fly.
+An SR-71B trainer over the Sierra Nevada Mountains of California in 1994. The raised second cockpit is for the instructor.
+Role	Strategic reconnaissance aircraft
+National origin	United States
+Manufacturer	Lockheed, Skunk Works division
+Designer	Clarence "Kelly" Johnson
+First flight	22 December 1964
+Introduction	January 1966
+Retired	1998 (USAF), 1999 (NASA)
+Status	Retired
+Primary users	United States Air Force
+NASA
+Number built	32
+Unit cost
+$34 million[1]
+Developed from	Lockheed A-12
+The Lockheed SR-71 "Blackbird" is a long-range, high-altitude, Mach 3+ strategic reconnaissance aircraft that was operated by the United States Air Force.[2] It was developed as a black project from the Lockheed A-12 reconnaissance aircraft in the 1960s by Lockheed and its Skunk Works division. American aerospace engineer Clarence "Kelly" Johnson was responsible for many of the design's innovative concepts. During aerial reconnaissance missions, the SR-71 operated at high speeds and altitudes to allow it to outrace threats. If a surface-to-air missile launch were detected, the standard evasive action was simply to accelerate and outfly the missile.[3] The shape of the SR-71 was based on the A-12 which was one of the first aircraft to be designed with a reduced radar cross-section.
+
+The SR-71 served with the U.S. Air Force from 1964 to 1998. A total of 32 aircraft were built; 12 were lost in accidents with none lost to enemy action.[4][5] The SR-71 has been given several nicknames, including "Blackbird" and "Habu".[6] Since 1976, it has held the world record for the fastest air-breathing manned aircraft, a record previously held by the related Lockheed YF-12.[7][8][9]
+
+
+Contents
+1	Development
+1.1	Background
+1.2	SR-71
+2	Design
+2.1	Overview
+2.2	Airframe, canopy, and landing gear
+2.2.1	Acquisition of titanium
+2.3	Shape and threat avoidance
+2.4	Air inlets
+2.5	Engines
+2.6	Fuel
+2.7	Astro-inertial navigation system
+2.8	Sensors and payloads
+2.9	Life support
+3	Operational history
+3.1	Main era
+3.1.1	European flights
+3.2	Initial retirement
+3.3	Reactivation
+3.4	Final retirement
+3.5	Timeline
+3.5.1	1950s–1960s
+3.5.2	1970s–1980s
+3.5.3	1990s
+3.6	Records
+3.7	Successor
+4	Variants
+5	Operators
+6	Accidents and aircraft disposition
+7	Baltic incident
+8	Specifications (SR-71A)
+9	See also
+10	References
+10.1	Footnotes
+10.2	Citations
+10.3	Bibliography
+11	External links
+Development
+Background
+Main article: Lockheed A-12
+Lockheed's previous reconnaissance aircraft was the relatively slow U-2, designed for the Central Intelligence Agency (CIA). In late 1957, the CIA approached the defense contractor Lockheed to build an undetectable spy plane. The project, named Archangel, was led by Kelly Johnson, head of Lockheed's Skunk Works unit in Burbank, California. The work on project Archangel began in the second quarter of 1958, with aim of flying higher and faster than the U-2. Of 11 successive designs drafted in a span of 10 months, "A-10" was the front-runner. Despite this, however, its shape made it vulnerable to radar detection. After a meeting with the CIA in March 1959, the design was modified to have a 90% reduction in radar cross-section. The CIA approved a US$96 million contract for Skunk Works to build a dozen spy planes, named "A-12" on 11 February 1960. The 1960 downing of Francis Gary Powers's U-2 underscored its vulnerability and the need for faster reconnaissance aircraft such as the A-12.[10]
+
+The A-12 first flew at Groom Lake (Area 51), Nevada, on 25 April 1962. Thirteen were built; two variants were also developed, including three of the YF-12 interceptor prototype, and two of the M-21 drone carrier. The aircraft was meant to be powered by the Pratt & Whitney J58 engine, but development ran over schedule, and it was equipped instead with the less powerful Pratt & Whitney J75 initially. The J58s were retrofitted as they became available, and became the standard powerplant for all subsequent aircraft in the series (A-12, YF-12, M-21), as well as the SR-71. The A-12 flew missions over Vietnam and North Korea before its retirement in 1968. The program's cancellation was announced on 28 December 1966,[11] due both to budget concerns[12] and because of the forthcoming SR-71, a derivative of the A-12.[13]
+
+SR-71
+Blackbird on the assembly line at Lockheed Skunk Works
+SR-71 Blackbird assembly line at Skunk Works
+The SR-71 designation is a continuation of the pre-1962 bomber series; the last aircraft built using the series was the XB-70 Valkyrie. However, a bomber variant of the Blackbird was briefly given the B-71 designator, which was retained when the type was changed to SR-71.[14]
+
+During the later stages of its testing, the B-70 was proposed for a reconnaissance/strike role, with an "RS-70" designation. When the A-12 performance potential clearly was found to be much greater, the Air Force ordered a variant of the A-12 in December 1962.[15] Originally named R-12[N 1] by Lockheed, the Air Force version was longer and heavier than the A-12, with a longer fuselage to hold more fuel, two seats in the cockpit, and reshaped chines. Reconnaissance equipment included signals intelligence sensors, a side-looking airborne radar, and a photo camera.[15] The CIA's A-12 was a better photo-reconnaissance platform than the Air Force's R-12, since the A-12 flew somewhat higher and faster,[12] and with only one pilot, it had room to carry a superior camera[12] and more instruments.[16]
+
+During the 1964 campaign, Republican presidential nominee Barry Goldwater repeatedly criticized President Lyndon B. Johnson and his administration for falling behind the Soviet Union in developing new weapons. Johnson decided to counter this criticism by revealing the existence of the YF-12A Air Force interceptor, which also served as cover for the still-secret A-12[17] and the Air Force reconnaissance model since July 1964. Air Force Chief of Staff General Curtis LeMay preferred the SR (Strategic Reconnaissance) designation and wanted the RS-71 to be named SR-71. Before the July speech, LeMay lobbied to modify Johnson's speech to read "SR-71" instead of "RS-71". The media transcript given to the press at the time still had the earlier RS-71 designation in places, creating the story that the president had misread the aircraft's designation.[18][N 2] To conceal the A-12's existence, Johnson referred only to the A-11, while revealing the existence of a high speed, high altitude reconnaissance aircraft.[19]
+
+In 1968, Secretary of Defense Robert McNamara canceled the F-12 interceptor program. The specialized tooling used to manufacture both the YF-12 and the SR-71 was also ordered destroyed.[20] Production of the SR-71 totaled 32 aircraft with 29 SR-71As, two SR-71Bs, and the single SR-71C.[21]
+
+Design
+Overview
+The flight instrumentation of an SR-71's forward cockpit
+Forward cockpit
+The SR-71 was designed for flight at over Mach 3 with a flight crew of two in tandem cockpits, with the pilot in the forward cockpit and the reconnaissance systems officer operating the surveillance systems and equipment from the rear cockpit, and directing navigation on the mission flight path.[22][23] The SR-71 was designed to minimize its radar cross-section, an early attempt at stealth design.[24] Finished aircraft were painted a dark blue, almost black, to increase the emission of internal heat and to act as camouflage against the night sky. The dark color led to the aircraft's nickname "Blackbird".
+
+While the SR-71 carried radar countermeasures to evade interception efforts, its greatest protection was its combination of high altitude and very high speed, which made it almost invulnerable. Along with its low radar cross-section, these qualities gave a very short time for an enemy surface-to-air missile (SAM) site to acquire and track the aircraft on radar. By the time the SAM site could track the SR-71, it was often too late to launch a SAM, and the SR-71 would be out of range before the SAM could catch up to it. If the SAM site could track the SR-71 and fire a SAM in time, the SAM would expend nearly all of the delta-v of its boost and sustainer phases just reaching the SR-71's altitude; at this point, out of thrust, it could do little more than follow its ballistic arc. Merely accelerating would typically be enough for an SR-71 to evade a SAM;[3] changes by the pilots in the SR-71's speed, altitude, and heading were also often enough to spoil any radar lock on the plane by SAM sites or enemy fighters.[23] At sustained speeds of more than Mach 3.2, the plane was faster than the Soviet Union's fastest interceptor, the Mikoyan-Gurevich MiG-25, which also could not reach the SR-71's altitude.[25] During its service life, no SR-71 was ever shot down.[4]
+
+Airframe, canopy, and landing gear
+On most aircraft, use of titanium was limited by the costs involved; it was generally used only in components exposed to the highest temperatures, such as exhaust fairings and the leading edges of wings. On the SR-71, titanium was used for 85% of the structure, with much of the rest polymer composite materials.[26] To control costs, Lockheed used a more easily worked titanium alloy which softened at a lower temperature.[N 3] The challenges posed led Lockheed to develop new fabrication methods, which have since been used in the manufacture of other aircraft. Lockheed found that washing welded titanium requires distilled water, as the chlorine present in tap water is corrosive; cadmium-plated tools could not be used, as they also caused corrosion.[27] Metallurgical contamination was another problem; at one point, 80% of the delivered titanium for manufacture was rejected on these grounds.[28][29]
+
+A Lockheed M-21 with D-21 drone on top
+A Lockheed M-21 with a D-21 drone on top
+The high temperatures generated in flight required special design and operating techniques. Major portions of the skin of the inboard wings were corrugated, not smooth. Aerodynamicists initially opposed the concept, disparagingly referring to the aircraft as a Mach 3 variant of the 1920s-era Ford Trimotor, known for its corrugated aluminum skin.[30] The heat would have caused a smooth skin to split or curl, whereas the corrugated skin could expand vertically and horizontally and had increased longitudinal strength.
+
+Fuselage panels were manufactured to fit only loosely with the aircraft on the ground. Proper alignment was achieved as the airframe heated up and expanded several inches.[31] Because of this, and the lack of a fuel-sealing system that could handle the airframe's expansion at extreme temperatures, the aircraft leaked JP-7 fuel on the ground prior to takeoff.[32]
+
+The outer windscreen of the cockpit was made of quartz and was fused ultrasonically to the titanium frame.[33] The temperature of the exterior of the windscreen reached 600 °F (316 °C) during a mission.[34] Cooling was carried out by cycling fuel behind the titanium surfaces in the chines. On landing, the canopy temperature was over 300 °C (572 °F).[30]
+
+The red stripes featured on some SR-71s were to prevent maintenance workers from damaging the skin. Near the center of the fuselage, the curved skin was thin and delicate, with no support from the structural ribs, which were spaced several feet apart.[35]
+
+The Blackbird's tires, manufactured by B.F. Goodrich, contained aluminum and were filled with nitrogen. They cost $2,300 and would generally require replacing within 20 missions. The Blackbird landed at over 170 knots (200 mph; 310 km/h) and deployed a drag parachute to stop; the chute also acted to reduce stress on the tires.[36]
+
+Acquisition of titanium
+Titanium was in short supply in the United States, so the Skunk Works team was forced to look elsewhere for the metal. Much of the needed material came from the Soviet Union. Colonel Rich Graham, SR-71 pilot, described the acquisition process:
+
+The airplane is 92% titanium inside and out. Back when they were building the airplane the United States didn't have the ore supplies – an ore called rutile ore. It's a very sandy soil and it's only found in very few parts of the world. The major supplier of the ore was the USSR. Working through Third World countries and bogus operations, they were able to get the rutile ore shipped to the United States to build the SR-71.[37]
+
+Shape and threat avoidance
+
+Water vapor is condensed by the low-pressure vortices generated by the chines outboard of each engine inlet.
+The second operational aircraft[38] designed around a stealth aircraft shape and materials, after the Lockheed A-12,[38] the SR-71 had several features designed to reduce its radar signature. The SR-71 had a radar cross-section (RCS) around 110 sq ft (10 m2).[39] Drawing on early studies in radar stealth technology, which indicated that a shape with flattened, tapering sides would reflect most energy away from a radar beam's place of origin, engineers added chines and canted the vertical control surfaces inward. Special radar-absorbing materials were incorporated into sawtooth-shaped sections of the aircraft's skin. Cesium-based fuel additives were used to somewhat reduce exhaust plumes visibility to radar, although exhaust streams remained quite apparent. Kelly Johnson later conceded that Soviet radar technology advanced faster than the stealth technology employed against it.[40]
+
+The SR-71 featured chines, a pair of sharp edges leading aft from either side of the nose along the fuselage. These were not a feature on the early A-3 design; Frank Rodgers, a doctor at the Scientific Engineering Institute, a CIA front organization, discovered that a cross-section of a sphere had a greatly reduced radar reflection, and adapted a cylindrical-shaped fuselage by stretching out the sides of the fuselage.[41] After the advisory panel provisionally selected Convair's FISH design over the A-3 on the basis of RCS, Lockheed adopted chines for its A-4 through A-6 designs.[42]
+
+Aerodynamicists discovered that the chines generated powerful vortices and created additional lift, leading to unexpected aerodynamic performance improvements.[43] The angle of incidence of the delta wings could be reduced for greater stability and less drag at high speeds, and more weight carried, such as fuel. Landing speeds were also reduced, as the chines' vortices created turbulent flow over the wings at high angles of attack, making it harder to stall. The chines also acted like leading-edge extensions, which increase the agility of fighters such as the F-5, F-16, F/A-18, MiG-29, and Su-27. The addition of chines also allowed the removal of the planned canard foreplanes.[N 4][44][45]
+
+Air inlets
+
+Operation of the air inlets and air flow patterns through the J58
+The air inlets allowed the SR-71 to cruise at over Mach 3.2, while keeping airflow into the engines at the initial subsonic speeds. Mach 3.2 was the design point for the aircraft, its most efficient speed.[30] However, in practice the SR-71 was sometimes more efficient at even faster speeds—depending on the outside air temperature—as measured by pounds of fuel burned per nautical mile traveled. During one mission, SR-71 pilot Brian Shul flew faster than usual to avoid multiple interception attempts; afterward, it was discovered that this had reduced fuel consumption.[46]
+
+At the front of each inlet, a pointed, movable cone called a "spike" (inlet cone) was locked in its full forward position on the ground and during subsonic flight. When the aircraft accelerated past Mach 1.6, an internal jackscrew moved the spike up to 26 in (66 cm) inwards,[47] directed by an analog air inlet computer that took into account pitot-static system, pitch, roll, yaw, and angle of attack. Moving the spike tip drew the shock wave riding on it closer to the inlet cowling until it touched just slightly inside the cowling lip. This position reflected the spike shock wave repeatedly between the spike center body and the inlet inner cowl sides, and minimized airflow spillage which is the cause of spillage drag. The air slowed supersonically with a final plane shock wave at entry to the subsonic diffuser.[48]
+
+Downstream of this normal shock, the air is subsonic. It decelerates further in the divergent duct to give the required speed at entry to the compressor. Capture of the plane's shock wave within the inlet is called "starting the inlet". Bleed tubes and bypass doors were designed into the inlet and engine nacelles to handle some of this pressure and to position the final shock to allow the inlet to remain "started".
+
+
+Schlieren flow visualization at unstart of axisymmetric inlet at Mach 2
+In the early years of operation, the analog computers would not always keep up with rapidly changing flight environmental inputs. If internal pressures became too great and the spike was incorrectly positioned, the shock wave would suddenly blow out the front of the inlet, called an "inlet unstart". During unstarts, afterburner extinctions were common. The remaining engine's asymmetrical thrust would cause the aircraft to yaw violently to one side. SAS, autopilot, and manual control inputs would fight the yawing, but often the extreme off-angle would reduce airflow in the opposite engine and stimulate "sympathetic stalls". This generated a rapid counter-yawing, often coupled with loud "banging" noises, and a rough ride during which crews' helmets would sometimes strike their cockpit canopies.[49] One response to a single unstart was unstarting both inlets to prevent yawing, then restarting them both.[50] After wind tunnel testing and computer modeling by NASA Dryden test center,[51] Lockheed installed an electronic control to detect unstart conditions and perform this reset action without pilot intervention.[52] During troubleshooting of the unstart issue, NASA also discovered the vortices from the nose chines were entering the engine and interfering with engine efficiency. NASA developed a computer to control the engine bypass doors which countered this issue and improved efficiency. Beginning in 1980, the analog inlet control system was replaced by a digital system, which reduced unstart instances.[53]
+
+Engines
+Main article: Pratt & Whitney J58
+
+A Pratt & Whitney J58 (JT11D-20) engine on open display
+
+A preserved AG330 start cart
+The SR-71 was powered by two Pratt & Whitney J58 (company designation JT11D-20) axial-flow turbojet engines. The J58 was a considerable innovation of the era, capable of producing a static thrust of 32,500 lbf (145 kN).[54][55] The engine was most efficient around Mach 3.2,[56] the Blackbird's typical cruising speed. At lower speeds, the turbojet provided most of the compression. At higher speeds, the engine largely ceased to provide thrust, the afterburner taking its place.[54]
+
+Air was initially compressed (and heated) by the inlet spike and subsequent converging duct between the center body and inlet cowl. The shock waves generated slowed the air to subsonic speeds relative to the engine. The air then entered the engine compressor. Some of this compressor flow (20% at cruise) was removed after the fourth compressor stage and went straight to the afterburner through six bypass tubes. Air passing through the turbojet was compressed further by the remaining five compressor stages and then fuel was added in the combustion chamber. After passing through the turbine, the exhaust, together with the compressor bleed air, entered the afterburner.[57]
+
+At around Mach 3, the temperature rise from the intake compression, added to the engine compressor temperature rise, reduced the allowable fuel flow because the turbine temperature limit did not change. The rotating machinery produced less power, but still enough to run at 100% RPM, thus keeping the airflow through the intake constant. The rotating machinery had become a drag item[58] and the engine thrust at high speeds came from the afterburner temperature rise.[59] Maximum flight speed was limited by the temperature of the air entering the engine compressor, which was not certified for temperatures above 800 °F (430 °C).[60]
+
+Originally, the Blackbird's J58 engines were started with the assistance of two Buick Wildcat V8 internal combustion engines, externally mounted on a vehicle referred to as an AG330 "start cart". The start cart was positioned underneath the J58 and the two Buick engines powered a single, vertical drive shaft connecting to the J58 engine and spinning it to above 3,200 RPM, at which point the turbojet could self-sustain. Once the first J58 engine was started, the cart was repositioned to start the aircraft's other J58 engine. Later start carts used Chevrolet big-block V8 engines. Eventually, a quieter, pneumatic start system was developed for use at main operating bases. The V8 start carts remained at diversion landing sites not equipped with the pneumatic system.[61][62]
+
+Fuel
+KC-135 and SR-71 during an "in-flight" re-fueling
+An SR-71 refueling from a KC-135Q Stratotanker during a flight in 1983
+Several exotic fuels were investigated for the Blackbird. Development began on a coal slurry power plant, but Johnson determined that the coal particles damaged important engine components.[30] Research was conducted on a liquid hydrogen powerplant, but the tanks for storing cryogenic hydrogen were not of a suitable size or shape.[30] In practice, the Blackbird would burn somewhat conventional JP-7, which was difficult to light. To start the engines, triethylborane (TEB), which ignites on contact with air, was injected to produce temperatures high enough to ignite the JP-7. The TEB produced a characteristic green flame, which could often be seen during engine ignition.[46]
+
+On a typical SR-71 mission, the airplane took off with only a partial fuel load to reduce stress on the brakes and tires during takeoff and also ensure it could successfully take off should one engine fail. As a result, the SR-71s were typically refueled immediately after takeoff.[32] This has led to the misconception that the plane required immediate refueling after takeoff due to leaking fuel tanks, however, leaks were measured in drips per minute and was not significant compared to the overall capacity.[63] The SR-71 also required in-flight refueling to replenish fuel during long-duration missions. Supersonic flights generally lasted no more than 90 minutes before the pilot had to find a tanker.[64]
+
+Specialized KC-135Q tankers were required to refuel the SR-71. The KC-135Q had a modified high-speed boom, which would allow refueling of the Blackbird at nearly the tanker's maximum airspeed with minimum flutter. The tanker also had special fuel systems for moving JP-4 (for the KC-135Q itself) and JP-7 (for the SR-71) between different tanks.[65] As an aid to the pilot when refueling, the cockpit was fitted with a peripheral vision horizon display. This unusual instrument projected a barely visible artificial horizon line across the top of the entire instrument panel, which gave the pilot subliminal cues on aircraft attitude.[66]
+
+Astro-inertial navigation system
+Nortronics, Northrop Corporation's electronics development division, had developed an astro-inertial guidance system (ANS), which could correct inertial navigation system errors with celestial observations, for the SM-62 Snark missile, and a separate system for the ill-fated AGM-48 Skybolt missile, the latter of which was adapted for the SR-71.[67][verification needed]
+
+Before takeoff, a primary alignment brought the ANS's inertial components to a high degree of accuracy. In flight, the ANS, which sat behind the reconnaissance systems officer's (RSO's), position, tracked stars through a circular quartz glass window on the upper fuselage.[46] Its "blue light" source star tracker, which could see stars during both day and night, would continuously track a variety of stars as the aircraft's changing position brought them into view. The system's digital computer ephemeris contained data on a list of stars used for celestial navigation: the list first included 56 stars, and was later expanded to 61.[68] The ANS could supply altitude and position to flight controls and other systems, including the mission data recorder, automatic navigation to preset destination points, automatic pointing and control of cameras and sensors, and optical or SLR sighting of fixed points loaded into the ANS before takeoff. According to Richard Graham, a former SR-71 pilot, the navigation system was good enough to limit drift to 1,000 ft (300 m) off the direction of travel at Mach 3.[69]
+
+Sensors and payloads
+
+The SR-71 Defensive System B
+The SR-71 originally included optical/infrared imagery systems; side-looking airborne radar (SLAR);[70] electronic intelligence (ELINT) gathering systems;[71] defensive systems for countering missile and airborne fighters;[72][73][74][75] and recorders for SLAR, ELINT, and maintenance data. The SR-71 carried a Fairchild tracking camera and an infrared camera,[76] both of which ran during the entire mission.
+
+As the SR-71 had a second cockpit behind the pilot for the RSO, it could not carry the A-12's principal sensor, a single large-focal-length optical camera that sat in the "Q-Bay" behind the A-12's single cockpit. Instead, the SR-71's camera systems could be located either in the fuselage chines or the removable nose/chine section. Wide-area imaging was provided by two of Itek's Operational Objective Cameras, which provided stereo imagery across the width of the flight track, or an Itek Optical Bar Camera, which gave continuous horizon-to horizon coverage. A closer view of the target area was given by the HYCON Technical Objective Camera (TEOC), that could be directed up to 45° left or right of the centerline.[77] Initially, the TEOCs could not match the resolution of the A-12's larger camera, but rapid improvements in both the camera and film improved this performance.[77][78]
+
+SLAR, built by Goodyear Aerospace, could be carried in the removable nose. In later life, the radar was replaced by Loral's Advanced Synthetic Aperture Radar System (ASARS-1). Both the first SLAR and ASARS-1 were ground-mapping imaging systems, collecting data either in fixed swaths left or right of centerline or from a spot location for higher resolution.[77] ELINT-gathering systems, called the Electro Magnetic Reconnaissance System, built by AIL could be carried in the chine bays to analyze electronic signal fields being passed through, and were programmed to identify items of interest.[77][79]
+
+Over its operational life, the Blackbird carried various electronic countermeasures (ECMs), including warning and active electronic systems built by several ECM companies and called Systems A, A2, A2C, B, C, C2, E, G, H, and M. On a given mission, an aircraft carried several of these frequency/purpose payloads to meet the expected threats. Major Jerry Crew, an RSO, told Air & Space/Smithsonian that he used a jammer to try to confuse surface-to-air missile sites as their crews tracked his airplane, but once his threat-warning receiver told him a missile had been launched, he switched off the jammer to prevent the missile from homing in on its signal.[80] After landing, information from the SLAR, ELINT gathering systems, and the maintenance data recorder were subjected to postflight ground analysis. In the later years of its operational life, a datalink system could send ASARS-1 and ELINT data from about 2,000 nmi (3,700 km) of track coverage to a suitably equipped ground station.[citation needed]
+
+Life support
+
+SR-71 pilot in full flight suit
+Flying at 80,000 ft (24,000 m) meant that crews could not use standard masks, which could not provide enough oxygen above 43,000 ft (13,000 m). Specialized protective pressurized suits were produced for crew members by the David Clark Company for the A-12, YF-12, M-21 and SR-71. Furthermore, an emergency ejection at Mach 3.2 would subject crews to temperatures of about 450 °F (230 °C); thus, during a high-altitude ejection scenario, an onboard oxygen supply would keep the suit pressurized during the descent.[81]
+
+The cockpit could be pressurized to an altitude of 10,000 or 26,000 ft (3,000 or 8,000 m) during flight.[82] The cabin needed a heavy-duty cooling system, as cruising at Mach 3.2 would heat the aircraft's external surface well beyond 500 °F (260 °C)[83] and the inside of the windshield to 250 °F (120 °C). An air conditioner used a heat exchanger to dump heat from the cockpit into the fuel prior to combustion.[84] The same air-conditioning system was also used to keep the front (nose) landing gear bay cool, thereby eliminating the need for the special aluminum-impregnated tires similar to those used on the main landing gear.[85]
+
+Blackbird pilots and RSOs were provided with food and drink for the long reconnaissance flights. Water bottles had long straws which crewmembers guided into an opening in the helmet by looking in a mirror. Food was contained in sealed containers similar to toothpaste tubes which delivered food to the crewmember's mouth through the helmet opening.[86][37]
+
+Operational history
+Main era
+The first flight of an SR-71 took place on 22 December 1964, at Air Force Plant 42 in Palmdale, California, piloted by Bob Gilliland.[87][88] The SR-71 reached a top speed of Mach 3.4 during flight testing,[89][90] with pilot Major Brian Shul reporting a speed of Mach 3.5 on an operational sortie while evading a missile over Libya.[91] The first SR-71 to enter service was delivered to the 4200th (later, 9th) Strategic Reconnaissance Wing at Beale Air Force Base, California, in January 1966.[92]
+
+SR-71s first arrived at the 9th SRW's Operating Location (OL-8) at Kadena Air Base, Okinawa on 8 March 1968.[93] These deployments were code named "Glowing Heat", while the program as a whole was code named "Senior Crown". Reconnaissance missions over North Vietnam were code named "Giant Scale". On 21 March 1968, Major (later General) Jerome F. O'Malley and Major Edward D. Payne flew the first operational SR-71 sortie in SR-71 serial number 61-7976 from Kadena AFB, Okinawa.[93] During its career, this aircraft (976) accumulated 2,981 flying hours and flew 942 total sorties (more than any other SR-71), including 257 operational missions, from Beale AFB; Palmdale, California; Kadena Air Base, Okinawa, Japan; and RAF Mildenhall, UK. The aircraft was flown to the National Museum of the United States Air Force near Dayton, Ohio in March 1990.
+
+The Air Force could fly each SR-71, on average, once per week, because of the extended turnaround required after mission recovery. Very often an aircraft would return with rivets missing, delaminated panels or other broken parts such as inlets requiring repair or replacement. There were cases of the aircraft not being ready to fly again for a month due to the repairs needed. Rob Vermeland, Lockheed Martin's manager of Advanced Development Program, said in an interview in 2015 that high-tempo operations were not realistic for the SR-71. "If we had one sitting in the hangar here and the crew chief was told there was a mission planned right now, then 19 hours later it would be safely ready to take off."[94]
+
+From the beginning of the Blackbird's reconnaissance missions over North Vietnam and Laos in 1968, the SR-71s averaged approximately one sortie a week for nearly two years. By 1970, the SR-71s were averaging two sorties per week, and by 1972, they were flying nearly one sortie every day. Two SR-71s were lost during these missions, one in 1970 and the second aircraft in 1972, both due to mechanical malfunctions.[95][96] Over the course of its reconnaissance missions during the Vietnam War, the North Vietnamese fired approximately 800 SAMs at SR-71s, none of which managed to score a hit.[97] Pilots did report that missiles launched without radar guidance and no launch detection, had passed as close as 150 yards from the aircraft. [98]
+
+
+Early project Habu logo
+While deployed at Okinawa, the SR-71s and their aircrew members gained the nickname Habu (as did the A-12s preceding them) after a pit viper indigenous to Japan, which the Okinawans thought the plane resembled.[6]
+
+Operational highlights for the entire Blackbird family (YF-12, A-12, and SR-71) as of about 1990 included:[99]
+
+3,551 mission sorties flown
+17,300 total sorties flown
+11,008 mission flight hours
+53,490 total flight hours
+2,752 hours Mach 3 time (missions)
+11,675 hours Mach 3 time (total)
+Only one crew member, Jim Zwayer, a Lockheed flight-test reconnaissance and navigation systems specialist, was killed in a flight accident.[81] The rest of the crew members ejected safely or evacuated their aircraft on the ground.
+
+European flights
+European operations were from RAF Mildenhall, England. There were two routes. One was along the Norwegian west coast and up the Kola Peninsula, which contained several large naval bases belonging to the Soviet Navy's Northern Fleet. Over the years, there were several emergency landings in Norway, four in Bodø and two of them in 1981 (flying from Beale) and 1985. Rescue parties were sent in to repair the planes before leaving. On one occasion, one complete wing with engine was replaced as the easiest way to get the plane airborne again.[100][101] The other route, from Mildenhall over the Baltic Sea, was known as the Baltic Express.
+
+Swedish Air Force fighter pilots have managed to lock their radar on an SR-71 on multiple occasions within shooting range.[102][103][clarification needed] Target illumination was maintained by feeding target location from ground-based radars to the fire-control computer in the JA 37 Viggen interceptor.[104] The most common site for the lock-on was the thin stretch of international airspace between Öland and Gotland that the SR-71s used on their return flights.[105][106][107]
+
+On 15 April 1986, the US Navy and USAF attacked targets in Libya. Some time later, an SR-71 (61-7980) sortied out on a post bombing analysis mission. Before approaching the target area, the crew noticed that one of the F-111s was missing: it had been shot down during the raid and had crashed into the Mediterranean Sea. During the mission, the SR-71 was fired on by surface to air missiles. In an effort to outrun them, the crew throttled up to full speed. This enabled it to avoid the missiles. It successfully landed back in RAF Mildenhall.[citation needed]
+
+Initial retirement
+The SR-71 program was terminated due to Pentagon politics, and not because the aircraft had become obsolete or irrelevant, or suffered maintenance problems, or had unsustainable program costs, although these reasons are frequently cited as justifications for its downfall.[23] In the 1970s and early 1980s, SR-71 squadron and wing commanders were often promoted into higher positions as general officers within the Air Force structure and the Pentagon. (In order to be selected into the SR-71 program in the first place, a pilot or navigator (RSO) had to be a top-quality Air Force officer, so continuing career progression for members of this elite group was not surprising.) These generals were adept at communicating the value of the SR-71 to an Air Force command staff and a Congress who often lacked a basic understanding of how the SR-71 worked and what it did. However, by the mid-1980s, these SR-71 generals all had retired, and a new generation of Air Force generals wanted to cut the program's budget and spend its funding on new strategic bomber programs instead, especially the very expensive B-2 Spirit.[23]
+
+The Air Force saw the SR-71 as a bargaining chip which could be sacrificed to ensure the survival of other priorities. Also, the SR-71 program's "product", which was operational and strategic intelligence, was not seen by these generals as being very valuable to the Air Force. The primary consumers of this intelligence were the CIA, NSA, and DIA. A former 1st SRS commander believed that if the SR-71 had been funded by an intelligence agency (like the A-12 was), instead of the Air Force, it would have easily survived.[citation needed] A general misunderstanding of the nature of aerial reconnaissance and a lack of knowledge about the SR-71 in particular (due to its secretive development and operations) was used by detractors to discredit the aircraft, with the assurance given that a replacement was under development. Dick Cheney told the Senate Appropriations Committee that the SR-71 cost $85,000 per hour to operate.[108] Opponents estimated the aircraft's support cost at $400 to $700 million per year, though the cost was actually closer to $300 million.[23]
+
+The SR-71, while much more capable than the Lockheed U-2 in terms of range, speed, and survivability, suffered the lack of a data link, which the U-2 had been upgraded to carry. This meant that much of the SR-71's imagery and radar data could not be used in real time, but had to wait until the aircraft returned to base. This lack of immediate real-time capability was used as one of the justifications to close down the program. Attempts to add a datalink to the SR-71 were stymied early on by the same factions in the Pentagon and Congress who were already set on the program's demise, even in the early 1980s.[23] These same factions also forced expensive sensor upgrades to the SR-71, which did little to increase its mission capabilities, but could be used as justification for complaining about the cost of the program.[23]
+
+In 1988, Congress was convinced to allocate $160,000 to keep six SR-71s and a trainer model in flyable storage that could become flightworthy within 60 days. However, the USAF refused to spend the money. While the SR-71 survived attempts to retire it in 1988, partly due to the unmatched ability to provide high-quality coverage of the Kola Peninsula for the US Navy,[109] the decision to retire the SR-71 from active duty came in 1989, with the last missions flown in October that year.[110] Four months after the plane's retirement, General Norman Schwarzkopf Jr., was told that the expedited reconnaissance, which the SR-71 could have provided, was unavailable during Operation Desert Storm.[111]
+
+The SR-71 program's main operational capabilities came to a close at the end of fiscal year 1989 (October 1989). The 1st SRS kept its pilots and aircraft operational and active, and flew some operational reconnaissance missions through the end of 1989 and into 1990, due to uncertainty over the timing of the final termination of funding for the program. The squadron finally closed in mid-1990, and the aircraft were distributed to static display locations, with a number kept in reserve storage.[23]
+
+Reactivation
+From the operator's perspective, what I need is something that will not give me just a spot in time but will give me a track of what is happening. When we are trying to find out if the Serbs are taking arms, moving tanks or artillery into Bosnia, we can get a picture of them stacked up on the Serbian side of the bridge. We do not know whether they then went on to move across that bridge. We need the [data] that a tactical, an SR-71, a U-2, or an unmanned vehicle of some sort, will give us, in addition to, not in replacement of, the ability of the satellites to go around and check not only that spot but a lot of other spots around the world for us. It is the integration of strategic and tactical.
+
+— Response from Admiral Richard C. Macke to the Senate Committee on Armed Services.[112]
+Due to unease over political situations in the Middle East and North Korea, the U.S. Congress re-examined the SR-71 beginning in 1993.[111] Rear Admiral Thomas F. Hall addressed the question of why the SR-71 was retired, saying it was under "the belief that, given the time delay associated with mounting a mission, conducting a reconnaissance, retrieving the data, processing it, and getting it out to a field commander, that you had a problem in timelines that was not going to meet the tactical requirements on the modern battlefield. And the determination was that if one could take advantage of technology and develop a system that could get that data back real time... that would be able to meet the unique requirements of the tactical commander." Hall also stated they were "looking at alternative means of doing [the job of the SR-71]."[112]
+
+Macke told the committee that they were "flying U-2s, RC-135s, [and] other strategic and tactical assets" to collect information in some areas.[112] Senator Robert Byrd and other Senators complained that the "better than" successor to the SR-71 had yet to be developed at the cost of the "good enough" serviceable aircraft. They maintained that, in a time of constrained military budgets, designing, building, and testing an aircraft with the same capabilities as the SR-71 would be impossible.[99]
+
+Congress's disappointment with the lack of a suitable replacement for the Blackbird was cited concerning whether to continue funding imaging sensors on the U-2. Congressional conferees stated the "experience with the SR-71 serves as a reminder of the pitfalls of failing to keep existing systems up-to-date and capable in the hope of acquiring other capabilities."[99] It was agreed to add $100 million to the budget to return three SR-71s to service, but it was emphasized that this "would not prejudice support for long-endurance UAVs [such as the Global Hawk]." The funding was later cut to $72.5 million.[99] The Skunk Works was able to return the aircraft to service under budget at $72 million.[113]
+
+Retired USAF Colonel Jay Murphy was made the Program Manager for Lockheed's reactivation plans. Retired Air Force Colonels Don Emmons and Barry MacKean were put under government contract to remake the plane's logistic and support structure. Still-active Air Force pilots and Reconnaissance Systems Officers (RSOs) who had worked with the aircraft were asked to volunteer to fly the reactivated planes. The aircraft was under the command and control of the 9th Reconnaissance Wing at Beale Air Force Base and flew out of a renovated hangar at Edwards Air Force Base. Modifications were made to provide a data-link with "near real-time" transmission of the Advanced Synthetic Aperture Radar's imagery to sites on the ground.[99]
+
+Final retirement
+The reactivation met much resistance: the Air Force had not budgeted for the aircraft, and UAV developers worried that their programs would suffer if money was shifted to support the SR-71s. Also, with the allocation requiring yearly reaffirmation by Congress, long-term planning for the SR-71 was difficult.[99] In 1996, the Air Force claimed that specific funding had not been authorized, and moved to ground the program. Congress reauthorized the funds, but, in October 1997, President Bill Clinton attempted to use the line-item veto to cancel the $39 million allocated for the SR-71. In June 1998, the U.S. Supreme Court ruled that the line-item veto was unconstitutional. All this left the SR-71's status uncertain until September 1998, when the Air Force called for the funds to be redistributed; the Air Force permanently retired it in 1998.
+
+NASA operated the two last airworthy Blackbirds until 1999.[114] All other Blackbirds have been moved to museums except for the two SR-71s and a few D-21 drones retained by the NASA Dryden Flight Research Center (later renamed the Armstrong Flight Research Center).[113]
+
+Timeline
+1950s–1960s
+24 December 1957: First J58 engine run
+1 May 1960: Francis Gary Powers is shot down in a Lockheed U-2 over the Soviet Union
+13 June 1962: SR-71 mock-up reviewed by the Air Force
+30 July 1962: J58 completes pre-flight testing
+28 December 1962: Lockheed signs contract to build six SR-71 aircraft
+25 July 1964: President Johnson makes public announcement of SR-71
+29 October 1964: SR-71 prototype (AF Ser. No. 61-7950) delivered to Air Force Plant 42 at Palmdale, California
+7 December 1964: Beale AFB, CA, announced as base for SR-71
+22 December 1964: First flight of the SR-71, with Lockheed test pilot Robert J "Bob" Gilliland at Palmdale[115]
+21 July 1967: Jim Watkins and Dave Dempster fly first international sortie in SR-71A, AF Ser. No. 61-7972, when the Astro-Inertial Navigation System (ANS) fails on a training mission and they accidentally fly into Mexican airspace
+5 February 1968: Lockheed ordered to destroy A-12, YF-12, and SR-71 tooling
+8 March 1968: First SR-71A (AF Ser. No. 61-7978) arrives at Kadena AB, Okinawa to replace A-12s
+21 March 1968: First SR-71 (AF Ser. No. 61-7976) operational mission flown from Kadena AB over Vietnam
+29 May 1968: CMSgt Bill Gornik begins the tie-cutting tradition of Habu crews' neckties
+1970s–1980s
+3 December 1975: First flight of SR-71A (AF Ser. No. 61-7959) in "big tail" configuration
+20 April 1976: TDY operations started at RAF Mildenhall, United Kingdom with SR-71A, AF Ser. No. 61-7972
+27–28 July 1976: SR-71A sets speed and altitude records (altitude in horizontal flight: 85,068.997 ft (25,929.030 m) and speed over a straight course: 2,193.167 miles per hour (3,529.560 km/h))
+August 1980: Honeywell starts conversion of AFICS to DAFICS
+15 January 1982: SR-71B, AF Ser. No. 61-7956, flies its 1,000th sortie
+21 April 1989: SR-71, AF Ser. No. 61-7974, is lost due to an engine explosion after taking off from Kadena AB, the last Blackbird to be lost[4][5]
+22 November 1989: Air Force SR-71 program officially terminated
+1990s
+6 March 1990: Last SR-71 flight under Senior Crown program, setting four speed records en route to the Smithsonian Institution
+25 July 1991: SR-71B, AF Ser. No. 61-7956/NASA No. 831 officially delivered to NASA Dryden Flight Research Center at Edwards AFB, California
+October 1991: NASA engineer Marta Bohn-Meyer becomes the first female SR-71 crew member
+28 September 1994: Congress votes to allocate $100 million for reactivation of three SR-71s
+28 June 1995: First reactivated SR-71 returns to Air Force as Detachment 2
+9 October 1999: The last flight of the SR-71 (AF Ser. No. 61-7980/NASA 844)
+Records
+
+View from the cockpit at 83,000 feet (25,000 m) over the Atlantic Ocean[116]
+The SR-71 was the world's fastest and highest-flying air-breathing operational manned aircraft throughout its career. On 28 July 1976, SR-71 serial number 61-7962, piloted by then Captain Robert Helt, broke the world record: an "absolute altitude record" of 85,069 feet (25,929 m).[9][117][118][119] Several aircraft have exceeded this altitude in zoom climbs, but not in sustained flight.[9] That same day SR-71 serial number 61-7958 set an absolute speed record of 1,905.81 knots (2,193.2 mph; 3,529.6 km/h), approximately Mach 3.3.[9][119] SR-71 pilot Brian Shul states in his book The Untouchables that he flew in excess of Mach 3.5 on 15 April 1986 over Libya to evade a missile.[91]
+
+The SR-71 also holds the "speed over a recognized course" record for flying from New York to London—distance 3,461.53 miles (5,570.79 km), 1,806.964 miles per hour (2,908.027 km/h), and an elapsed time of 1 hour 54 minutes and 56.4 seconds—set on 1 September 1974, while flown by U.S. Air Force pilot James V. Sullivan and Noel F. Widdifield, reconnaissance systems officer (RSO).[120] This equates to an average speed of about Mach 2.72, including deceleration for in-flight refueling. Peak speeds during this flight were likely closer to the declassified top speed of over Mach 3.2. For comparison, the best commercial Concorde flight time was 2 hours 52 minutes and the Boeing 747 averages 6 hours 15 minutes.
+
+On 26 April 1971, 61-7968, flown by majors Thomas B. Estes and Dewain C. Vick, flew over 15,000 miles (24,000 km) in 10 hours and 30 minutes. This flight was awarded the 1971 Mackay Trophy for the "most meritorious flight of the year" and the 1972 Harmon Trophy for "most outstanding international achievement in the art/science of aeronautics".[121]
+
+The "Last Flight" of a SR-71. In background SR-71 S/N 61-7972. Foreground pilot Lt. Col. Raymond E. "Ed" Yeilding and RSO Lt. Col. Joseph T. "JT" Vida, 6 March 1990.
+Pilot Lt. Col. Ed Yeilding and RSO Lt. Col. Joe Vida on 6 March 1990, the last SR-71 Senior Crown flight
+When the SR-71 was retired in 1990, one Blackbird was flown from its birthplace at United States Air Force Plant 42 in Palmdale, California, to go on exhibit at what is now the Smithsonian Institution's Steven F. Udvar-Hazy Center in Chantilly, Virginia. On 6 March 1990, Lt. Col. Raymond E. Yeilding and Lt. Col. Joseph T. Vida piloted SR-71 S/N 61-7972 on its final Senior Crown flight and set four new speed records in the process:
+
+Los Angeles, California, to Washington, D.C., distance 2,299.7 miles (3,701.0 km), average speed 2,144.8 miles per hour (3,451.7 km/h), and an elapsed time of 64 minutes 20 seconds.[120][122]
+West Coast to East Coast, distance 2,404 miles (3,869 km), average speed 2,124.5 miles per hour (3,419.1 km/h), and an elapsed time of 67 minutes 54 seconds.
+Kansas City, Missouri, to Washington, D.C., distance 942 miles (1,516 km), average speed 2,176 miles per hour (3,502 km/h), and an elapsed time of 25 minutes 59 seconds.
+St. Louis, Missouri, to Cincinnati, Ohio, distance 311.4 miles (501.1 km), average speed 2,189.9 miles per hour (3,524.3 km/h), and an elapsed time of 8 minutes 32 seconds.
+These four speed records were accepted by the National Aeronautic Association (NAA), the recognized body for aviation records in the United States.[123] Additionally, Air & Space/Smithsonian reported that the Air Force clocked the SR-71 at one point in its flight reaching 2,242.48 miles per hour (3,608.92 km/h).[124] After the Los Angeles–Washington flight, on 6 March 1990, Senator John Glenn addressed the United States Senate, chastising the Department of Defense for not using the SR-71 to its full potential:
+
+Mr. President, the termination of the SR-71 was a grave mistake and could place our nation at a serious disadvantage in the event of a future crisis. Yesterday's historic transcontinental flight was a sad memorial to our short-sighted policy in strategic aerial reconnaissance.[125]
+
+Successor
+Main article: Lockheed Martin SR-72
+Speculation existed regarding a replacement for the SR-71, including a rumored aircraft codenamed Aurora. The limitations of reconnaissance satellites, which take up to 24 hours to arrive in the proper orbit to photograph a particular target, make them slower to respond to demand than reconnaissance planes. The fly-over orbit of spy satellites may also be predicted and can allow assets to be hidden when the satellite is above, a drawback not shared by aircraft. Thus, there are doubts that the US has abandoned the concept of spy planes to complement reconnaissance satellites.[126] Unmanned aerial vehicles (UAVs) are also used for much aerial reconnaissance in the 21st century, being able to overfly hostile territory without putting human pilots at risk, as well as being smaller and harder to detect than man-carrying aircraft.
+
+On 1 November 2013, media outlets reported that Skunk Works has been working on an unmanned reconnaissance airplane it has named SR-72, which would fly twice as fast as the SR-71, at Mach 6.[127][128] However, the Air Force is officially pursuing the Northrop Grumman RQ-180 UAV to take up the SR-71's strategic ISR role.[129]
+
+Variants
+SR-71A was the main production variant.
+SR-71B was a trainer variant.[130]
+SR-71C was a hybrid aircraft composed of the rear fuselage of the first YF-12A (S/N 60-6934) and the forward fuselage from an SR-71 static test unit. The YF-12 had been wrecked in a 1966 landing accident. This Blackbird was seemingly not quite straight and had a yaw at supersonic speeds.[131] It was nicknamed "The Bastard".[132][133]
+Operators
+ United States
+United States Air Force[134][135][136]
+
+Air Force Systems Command
+Air Force Flight Test Center – Edwards AFB, California
+4786th Test Squadron 1965–1970
+SR-71 Flight Test Group 1970–1990
+Strategic Air Command
+9th Strategic Reconnaissance Wing – Beale AFB, California
+1st Strategic Reconnaissance Squadron 1966–1990
+99th Strategic Reconnaissance Squadron 1966–1971
+Detachment 1, Kadena Air Base, Japan 1968–1990
+Detachment 4, RAF Mildenhall. England 1976–1990
+Air Combat Command
+Detachment 2, 9th Reconnaissance Wing – Edwards AFB, California 1995–1997
+(Forward Operating Locations at Eielson AFB, Alaska; Griffis AFB, New York; Seymour-Johnson AFB, North Carolina; Diego Garcia and Bodo, Norway 1973–1990)
+National Aeronautics and Space Administration (NASA)[137]
+
+Dryden Flight Research Center – Edwards AFB, California 1991–1999
+Accidents and aircraft disposition
+
+SR-71 at Pima Air & Space Museum, Tucson, Arizona
+
+Close-up of the SR-71B operated by NASA's Dryden Flight Research Center, Edwards AFB, California
+
+SR-71A at the National Museum of the United States Air Force
+
+Detail of SR-71A at the Museum of Aviation, Robins AFB
+Twelve SR-71s were lost and one pilot died in accidents during the aircraft's service career.[4][5] Eleven of these accidents happened between 1966 and 1972.
+
+List of SR-71 Blackbirds
+AF Serial Number	Model	Location or fate
+61-7950	SR-71A	Lost, 10 January 1967
+61-7951	SR-71A	Pima Air & Space Museum (adjacent to Davis-Monthan Air Force Base), Tucson, Arizona. Loaned to NASA as "YF-12A 60-6935". Currently at the National Museum of the United States Air Force in Dayton, Ohio.[138][139]
+61-7952	SR-71A	Lost in Mach 3 mid-air breakup near Tucumcari, New Mexico, 25 January 1966[81][140][141]
+61-7953	SR-71A	Lost, 18 December 1969[142]
+61-7954	SR-71A	Lost, 11 April 1969
+61-7955	SR-71A	Air Force Flight Test Center Museum, Edwards Air Force Base, California[143]
+61-7956	SR-71B	Air Zoo, Kalamazoo, Michigan (ex-NASA831)
+61-7957	SR-71B	Lost, 11 January 1968
+61-7958	SR-71A	Museum of Aviation, Robins Air Force Base, Warner Robins, Georgia
+61-7959	SR-71A	Air Force Armament Museum, Eglin Air Force Base, Florida[144]
+61-7960	SR-71A	Castle Air Museum at the former Castle Air Force Base, Atwater, California
+61-7961	SR-71A	Cosmosphere, Hutchinson, Kansas
+61-7962	SR-71A	American Air Museum in Britain, Imperial War Museum Duxford, Cambridgeshire, England[145]
+61-7963	SR-71A	Beale Air Force Base, Marysville, California
+61-7964	SR-71A	Strategic Air Command & Aerospace Museum, Ashland, Nebraska
+61-7965	SR-71A	Lost, 25 October 1967
+61-7966	SR-71A	Lost, 13 April 1967
+61-7967	SR-71A	Barksdale Air Force Base, Bossier City, Louisiana
+61-7968	SR-71A	Science Museum of Virginia, Richmond, Virginia
+61-7969	SR-71A	Lost, 10 May 1970
+61-7970	SR-71A	Lost, 17 June 1970
+61-7971	SR-71A	Evergreen Aviation Museum, McMinnville, Oregon
+61-7972	SR-71A	Smithsonian Institution Steven F. Udvar-Hazy Center, Washington Dulles International Airport, Chantilly, Virginia
+61-7973	SR-71A	Blackbird Airpark, Air Force Plant 42, Palmdale, California
+61-7974	SR-71A	Lost, 21 April 1989
+61-7975	SR-71A	March Field Air Museum, March Air Reserve Base (former March AFB), Riverside, California[146]
+61-7976	SR-71A	National Museum of the United States Air Force, Wright-Patterson Air Force Base, near Dayton, Ohio
+61-7977	SR-71A	Lost, 10 October 1968. Cockpit section survived and located at the Seattle Museum of Flight.
+61-7978	SR-71A	Nicknamed "Rapid Rabbit" and wearing a Playboy bunny image as tail art.[147] (wearing a "black bunny" logo on its tail). Lost, 20 July 1972[4]
+61-7979	SR-71A	Lackland Air Force Base, San Antonio, Texas
+61-7980	SR-71A	Dryden Flight Research Center, Edwards Air Force Base, California
+61-7981	SR-71C	Hill Aerospace Museum, Hill Air Force Base, Ogden, Utah (formerly YF-12A 60-6934)
+Notes: Many secondary references use apparently incorrect 64- series aircraft serial numbers (e.g. SR-71C 64-17981), but no primary government documents have been found to support this.[148]
+
+After completion of all USAF and NASA SR-71 operations at Edwards AFB, the SR-71 Flight Simulator was moved in July 2006 to the Frontiers of Flight Museum at Love Field Airport in Dallas, Texas.[149]
+
+Baltic incident
+On 29 June 1987, an SR-71 was on a mission around the Baltic to spy on Soviet postings when one of the engines exploded. The aircraft, which was at 20 km altitude, quickly lost altitude and turned 180° to the left and turned over Gotland to search for the Swedish coast. Thus, Swedish airspace was violated, whereupon two armed Saab JA 37 Viggens on an exercise at the height of Västervik were ordered there. The mission was to do an incident preparedness check and identify an aircraft of high interest. It was found that the plane was in obvious distress and a decision was made that the Swedish Air Force would escort the plane out of the Baltic Sea. A second round of armed JA-37s from Ängelholm replaced the first pair and completed the escort to Danish airspace. The event had been classified for over 30 years, and when the report was unsealed, data from the NSA showed that a few MiG-25s with the order to shoot down the SR-71 or force it to land, had started right after the engine failure. A MiG-25 aircraft had locked a missile on the damaged SR-71, but as the aircraft was under escort, no missiles were fired. On 29 November 2018, the four Swedish pilots involved were awarded medals from the US Air Force.[150][151]
+
+Specifications (SR-71A)
+Orthographically projected diagram of the SR-71A Blackbird.
+Data from Lockheed SR-71 Blackbird[152]
+
+General characteristics
+
+Crew: 2; Pilot and reconnaissance systems officer (RSO)
+Length: 107 ft 5 in (32.74 m)
+Wingspan: 55 ft 7 in (16.94 m)
+Height: 18 ft 6 in (5.64 m)
+Wheel track: 16 ft 8 in (5 m)
+Wheelbase: 37 ft 10 in (12 m)
+Wing area: 1,800 sq ft (170 m2)
+Aspect ratio: 1.7
+Empty weight: 67,500 lb (30,617 kg)
+Gross weight: 152,000 lb (68,946 kg)
+Max takeoff weight: 172,000 lb (78,018 kg)
+Fuel capacity: 12,219.2 US gal (10,174.6 imp gal; 46,255 l) in 6 tank groups (9 tanks)
+Powerplant: 2 × Pratt & Whitney J58 (JTllD-20J or JTllD-20K) continuous-bleed afterburning turbojets, 25,000 lbf (110 kN) thrust each
+JTllD-20J 32,500 lbf (144.57 kN) wet (fixed inlet guidevanes)
+JTllD-20K 34,000 lbf (151.24 kN) wet (2-position inlet guidevanes)
+Performance
+
+Maximum speed: 1,910 kn (2,200 mph, 3,540 km/h) at 80,000 ft (24,000 m)
+Maximum speed: Mach 3.32[N 5]
+Ferry range: 2,824 nmi (3,250 mi, 5,230 km)
+Service ceiling: 85,000 ft (26,000 m)
+Rate of climb: 11,820 ft/min (60.0 m/s)
+Wing loading: 84 lb/sq ft (410 kg/m2)
+Thrust/weight: 0.44
+Avionics
+3,500 lb (1,588 kg) of mission equipment
+
+Itek KA-102A 36–48 in (910–1,220 mm) camera
+SIGINT and ELINT equipment in the following compartments
+A - nose radar
+D - right chine bay
+E - electronics bay
+K - left forward mission bay
+L - right forward mission bay
+M - left forward mission bay
+N - right forward mission bay
+P - left aft mission bay
+Q - right aft mission bay
+R - radio equipment bay
+S - left aft mission bay
+T - right aft mission bay
+See also
+	Aviation portal
+Henry Combs
+Lockheed Martin SR-72, the proposed successor to the SR-71
+Aircraft in fiction § SR-71 Blackbird
+Linear Aerospike SR-71 Experiment
+Measurement and signature intelligence
+Peripheral vision horizon display, an instrument that was originally specifically developed for the SR-71
+Related development
+
+Lockheed A-12
+Lockheed A-12#M-21
+Lockheed YF-12
+Aircraft of comparable role, configuration and era
+
+Bristol 188
+Mikoyan-Gurevich MiG-25
+Tsybin RSR
+Related lists
+
+List of Lockheed aircraft
+List of military aircraft of the United States
+List of United States Air Force reconnaissance aircraft
+References
+Footnotes
+ See the opening fly page in Paul Crickmore's book SR-71, Secret Missions Exposed, which contains a copy of the original R-12 labeled plan view drawing of the vehicle.
+ Crickmore, SR-71, Secret Missions Exposed, original R-12 labeled plan view drawing
+ Lockheed obtained the metal from the USSR during the Cold War, under many guises to prevent the Soviet government from discovering for what it was to be used.
+ See Blackbird with Canards image for visual.
+ Maximum speed limit was Mach 3.2, but could be raised to Mach 3.3 if the engine compressor inlet temperature did not exceed 801 °F (427 °C).[153]
+Citations
+ Edwards, Owen (July 2009). "The Ultimate Spy Plane". Smithsonian Magazine. Retrieved 27 November 2017. The 32 Blackbirds cost an average of $34 million each.
+ "SR-71 Blackbird." lockheedmartin.com. Retrieved: 14 March 2010.
+ "SR71 Blackbird." PBS documentary, Aired: 15 November 2006.
+ Landis and Jenkins 2005, pp. 98, 100–101.
+ Pace 2004, pp. 126–127.
+ Crickmore 1997, p. 64.
+ Landis and Jenkins 2005, p. 78.
+ Pace 2004, p. 159.
+ "Records: Sub-class : C-1 (Landplanes) Group 3: turbo-jet." records.fai.org. Retrieved: 30 June 2011.
+ Rich and Janos 1994, p. 85.
+ McIninch 1996, p. 31.
+ Robarge, David. "A Futile Fight for Survival. Archangel: CIA's Supersonic A-12 Reconnaissance Aircraft." CSI Publications, 27 June 2007. Retrieved: 13 April 2009.
+ Cefaratt; Gill (2002). Lockheed: The People Behind the Story. Turner Publishing Company. pp. 78, 158. ISBN 978-1-56311-847-0.
+ "Lockheed B-71 (SR-71)". National Museum of the United States Air Force. 29 October 2009. Archived from the original on 4 October 2013. Retrieved 2 October 2013.
+ Landis and Jenkins 2005, pp. 56–57.
+ McIninch 1996, p. 29.
+ McIninch 1996, pp. 14–15.
+ Merlin 2005, pp. 4–5.
+ McIninch, 1996
+ Landis and Jenkins 2005, p. 47.
+ Merlin 2005, p. 6.
+ "Senior Crown SR-71." Federation of American Scientists, 7 September 2010. Retrieved: 17 October 2012. Archived on 17 April 2015.
+ Graham, Richard (7 July 1996). SR-71 Revealed: The Inside Story. Zenith Press. ISBN 978-0760301227.
+ Crickmore 2009, pp. 30–31.
+ "MiG-25 Foxbat." globalaircraft.org. Retrieved: 31 May 2011. Archived in 2014.
+ Merlin, Peter W. "Design and Development of the Blackbird: Challenges and Lessons Learned". American Institute of Aeronautics and Astronautics
+ Rich and Janos 1994, pp. 213–214.
+ Rich and Janos 1994, p. 203.
+ McIninch 1996, p. 5.
+ Johnson 1985
+ Graham, 1996, p. 47.
+ Graham, 1996, p. 160.
+ Burrows, William E. (1 March 1999). "The Real X-Jet". Smithsonian Air & Space. Retrieved 16 January 2018.
+ Graham, 1996, p. 41.
+ "Lockheed SR-71 "Blackbird" - Air Power Provided". Dutchops.com.
+ Blackbird diaries, Air & Space, December 2014/January 2015, p. 46.
+ Dowling, Stephen (2 July 2013). "SR-71 Blackbird: The Cold War's ultimate spy plane". BBC. Retrieved 4 May 2017.
+ "OXCART vs Blackbird: Do You Know the Difference? — Central Intelligence Agency". Cia.gov.
+ Graham, 1996, p. 75.
+ Hott, Bartholomew and George E. Pollock "The Advent, Evolution, and New Horizons of United States Stealth Aircraft." archive.is. Retrieved: 7 February 2014.
+ Suhler 2009, p. 100.
+ Suhler 2009, ch. 10.
+ AirPower May 2002, p. 36.
+ Goodall 2003, p. 19.
+ AirPower, May 2002, p. 33.
+ Shul and O'Grady 1994
+ "SR-71 manual, Air Inlet System". sr-71.org. Retrieved: 14 March 2010.
+ "Penn State- turbo ramjet engines." personal.psu.edu. Retrieved: 14 March 2010.
+ Crickmore 1997, pp. 42–43.
+ Landis and Jenkins 2005, p. 97.
+ "NASA Dryden Technology Facts - YF-12 Flight Research Program". US: NASA. 2004. Retrieved 9 March 2019.
+ Rich and Janos 1994, p. 221.
+ Landis and Jenkins 2005, p. 83.
+ Kloesel, Kurt J., Nalin A. Ratnayake and Casie M. Clark. "A Technology Pathway for Airbreathing, Combined-Cycle, Horizontal Space Launch Through SR-71 Based Trajectory Modeling." NASA: Dryden Flight Research Center. Retrieved: 7 September 2011.
+ Gibbs, Yvonne (12 August 2015). "NASA Armstrong Fact Sheet: SR-71 Blackbird". NASA. Retrieved 29 May 2017.
+ "SR-71." yarchive.net. Retrieved: 14 March 2010.
+ "SR-71 Online - SR-71 Flight Manual: Section 1, Page 1-20". Sr-71.org.
+ "Jet Propulsion for Aerospace Applications" second edition, Hesse and Mumford, Pitman Publishing Corporation, Library of Congress Catalog Card Number: 64-18757, p375
+ "F-12 Series Aircraft Propulsion System Performance and Development" David Campbell, J. Aircraft VOL.11, NO. 11, November 1974
+ SR-71 Revealed Richard H. Graham Col USAF (Retd) ISBN 978-0-7603-0122-7, p. 51.
+ Landis and Jenkins 2005, pp. 95–96.
+ "Starter Cart". SR-71 Online. US. 2010. Retrieved 21 July 2018.
+ SR-71 Pilot Interview Richard Graham Veteran Tales. Veteran Tales Project. 6 August 2013. Event occurs at 19:30. Retrieved 13 August 2019 – via YouTube.
+ Marshall, Elliot, The Blackbird's Wake, Air and Space, October/November 1990, p. 35.
+ Graham, 1996, pp. 38–39.
+ Paul Crickmore, Lockheed Blackbird: Beyond The Secret Missions, 1993, p. 233.
+ Morrison, Bill, SR-71 contributors, Feedback column, Aviation Week and Space Technology, 9 December 2013, p.10
+ "SR-71A-1 Flight Manual, Section IV, p. 3." sr-71.org. Retrieved: 13 December 2011.
+ "SR-71 Pilot Interview Richard Graham Veteran Tales". YouTube.
+ "SR-71 Online - SR-71 Flight Manual: Section 4, Page 4-86". Sr-71.org.
+ "SR-71 Online - SR-71 Flight Manual: Section 4, Page 4-99". Sr-71.org.
+ "SR-71 Online - SR-71 Flight Manual: Section 4, Page 4-123". Sr-71.org.
+ "SR-71 Online - SR-71 Flight Manual: Section 4, Page 4-129". Sr-71.org.
+ "SR-71 Online - SR-71 Flight Manual: Section 4, Page 4-132". Sr-71.org.
+ "SR-71 Online - SR-71 Flight Manual: Section 4, Page 4-146". Sr-71.org.
+ David Robarge. "ARCHANGEL" (PDF). Cia.gov. Retrieved 19 March 2019.
+ Crickmore 1997, p. 74.
+ Crickmore 1997, p. 563.
+ Crickmore 1997, p. 77.
+ "Blackbird Diaries | Flight Today". Air & Space Magazine Air & Space Magazine: 45. December 2014. Retrieved 24 July 2015.
+ "Bill Weaver SR-71 Breakup." Roadrunners Internationale, 10 September 2011. Retrieved: 3 March 2012.
+ Donald 2003, p. 172.
+ Popular Mechanics, June 1991, p. 28.
+ Ehrenfried, Manfred (2013). Stratonauts: Pioneers Venturing into the Stratosphere. ISBN 978-3-319-02901-6.
+ "SR-71 Maintenance". Blackbirds.net. Retrieved 29 October 2015.
+ Shul, Brian (1992). Sled Driver. Earl Shilton, Leicester, England: Midland Publishing Limited. pp. 38–40. ISBN 9781857800029.
+ Reyes, Jesus (6 July 2019). "First man to fly the world's fastest aircraft dies in Rancho Mirage". KESQ.
+ Crickmore 1997, pp. 56, 58.
+ Graham, Colonel (USAF, Retired), Richard. "SR-71 Pilot Interview Richard Graham, Veteran Tales interview at Frontiers of Flight Museum (at 1:02:55)". YouTube. Erik Johnston. Retrieved 29 August 2013.
+ "Col. Richard Graham (USAF, Ret.)". Habu.org. The Online Blackbird Museum. Retrieved 16 January 2016.
+ Shul, Brian (1994). The Untouchables. Mach One. p. 173. ISBN 0929823125.
+ Crickmore 1997, p. 59.
+ Crickmore 1997, pp. 62–64.
+ Norros, Guy, "Hyper ops", Aviation Week & Space Technology, July 20 – August 2, 2015, p. 28.
+ Hobson p. 269.
+ Donald 2003, p. 167.
+ Little, Richard (22 September 2015). "Bye Bye U-2: CIA Legend Allen Predicts End Of Manned Reconnaissance". Breaking Defense. Retrieved 29 May 2017.
+ Quote from Reg Blackwell, SR-71 pilot, interviewed for "Battle Stations" episode "SR-71 Blackbird Stealth Plane", first aired on History Channel December 15, 2002.
+ Graham 1996
+ Bonafede, Håkon (22 April 2012). "SPIONFLY, DEN KALDE KRIGEN - Spionfly landet i Bodø" [Spy plane, The Cold War - Spy plane landed in Bodø] (in Norwegian). Norway: Side3. Retrieved 11 September 2017.
+ Haynes, Leland. "SR-71 Bodo Norway Operations". Retrieved 7 October 2017.
+ Bonafede, Håkon (10 May 2018). "På skuddhold av SR-71 Blackbird" [Shooting of the SR-71]. Side3 (in Norwegian). Norway. Retrieved 12 May 2018.
+ "TV: Kärnvapensäkra bunkern styrde flygplanen" [TV: Aircraft controlled from nuclear weapon secured bunker]. Kundservice. Sweden. 2 May 2017. Retrieved 7 October 2017. Look at time 5:57
+ Flyghistorisk Revy – System 37 Viggen, Stockholm: Svensk Flyghistorisk Förening, 2009, ISSN 0345-3413.
+ Mach 14, vol 4, no 3, 1983, p. 5. ISSN 0280-8498.
+ Mach 25, vol 7, no 2, 1986, pp. 28–29. ISSN 0280-8498.
+ Darwal 2004, pp. 151–156.
+ Marshall, Eliot, "The Blackbird's Wake", Air & Space, October/November 1990, p. 35.
+ Crickmore 1997, pp. 84–85.
+ Crickmore 1997, p. 81.
+ Remak and Ventolo 2001,[page needed]
+ "Department of Defense Authorization for Appropriations for Fiscal Year 1994 and The Future Years." United States Senate, May–June 1993.
+ Jenkins 2001
+ "NASA/DFRC SR-71 Blackbird." NASA. Retrieved: 16 August 2007.
+ Landis and Jenkins 2005, p. 58.
+ Shul and Watson 1993, pp. 113–114.
+ Landis and Jenkins 2005, pp. 77–78.
+ "SR-71 World Record Speed and Altitude Flights". Wvi.com.
+ "A-12, YF-12A, & SR-71 Timeline of Events". Voodoo-world.cz.
+ "Blackbird Records." sr-71.org. Retrieved: 18 October 2009.
+ "1966 Lockheed SR-71." Archived 28 July 2011 at the Wayback Machine vam.smv.org. Retrieved: 14 February 2011.
+ "Spy Plane Sets Speed Record, Then Retires." The New York Times, 7 March 1990.
+ National Aeronautic Association
+ Marshall, Elliot, The Blackbird's Wake, Air & Space, October/November 1990, p. 31.
+ Richard H. Graham (1996). SR-71 Revealed : The Untold Story. Zenith Imprint. ISBN 978-1-61060-751-3.
+ Siuru, William D. and John D. Busick. Future Flight: The Next Generation of Aircraft Technology. Blue Ridge Summit, Pennsylvania: TAB Books, 1994. ISBN 0-8306-7415-2.
+ Norris, Guy (1 November 2013). "Exclusive: Skunk Works Reveals SR-71 Successor Plan". Aviation Week. Penton. Archived from the original on 11 August 2014. Retrieved 1 November 2013.
+ Trimble, Stephen (1 November 2013). "Skunk Works reveals Mach 6.0 SR-72 concept". Flightglobal.com. Reed Business Information. Archived from the original on 21 January 2014. Retrieved 1 November 2013.
+ Butler, Amy; Sweetman, Bill (6 December 2013). "EXCLUSIVE: Secret New UAS Shows Stealth, Efficiency Advances". Aviation Week. Penton. Retrieved 6 December 2013.
+ Landis and Jenkins 2005, pp. 56–58.
+ Landis and Jenkins 2005, pp. 62, 75.
+ Merlin 2005, p. 4.
+ Pace 2004, pp. 109–110.
+ "U-2 and SR-71 Units, Bases and Detachments". Umcc.ais.org. Retrieved 29 October 2015.
+ "BEALE AFB 99TH Reconnaissance Squadron". Mybaseguide.com. Retrieved 29 October 2015.
+ "Fall and Rise of the Blackbird". Blackbirds.net.
+ Fact Sheet: SR-71 Blackbird. NASA Armstrong Flight Research Center. Retrieved 28 April 2015.
+ "Lockheed YF-12A". National Museum of the US Air Force™.
+ "SR-71 Online - YF-12 Locations". Sr-71.org.
+ Bill Weaver & Maury Rosenberg. BD-0066 Oral History, Bill Weaver and Maury Rosenberg Lockheed SR-71 Pilots (Video). San Diego Air & Space Museum. Event occurs at 1h12m40s.
+ Graham 2013
+ "SR-71 #953 crash." check-six.com. Retrieved: 12 November 2012.
+ SR-71A Blackbird Archived 16 October 2013 at the Wayback Machine Air Force Flight Center Museum. Retrieved: 10 February 2009.
+ Exhibits . Air Force Armament Museum. Retrieved: 10 February 2009.
+ "Aircraft On Display: Lockheed SR-71A Blackbird." The American Air Museum, Imperial War Museum. Retrieved: 10 February 2009.
+ "Aircraft: Lockheed SR-71A Blackbird". March Field Air Museum. Archived from the original on 4 March 2000. Retrieved 5 May 2009..
+ "Fear the Bunny!". Warrior Flight Charity. Retrieved 24 March 2018.
+ U-2 / A-12 / YF-12A / SR-71 Blackbird & RB-57D – WB-57F locations.' Archived 18 February 2011 at the Wayback Machine u2sr71patches.co.uk. Retrieved: 22 January 2010.
+ "Frontiers of Flight Museum." flightmuseum.com. Retrieved: 14 March 2010.
+ "4 Swedish JA-37 Viggen pilots receives medals for SR-71 Blackbird rescue operation 1987 Part:1/2". Retrieved 25 September 2019.
+ "4 Swedish JA-37 Viggen pilots receives medals for SR-71 Blackbird rescue operation 1987 Part:2/2". Retrieved 25 September 2019.
+ Pace 2004, p. 110.
+ Graham 2002, pp. 93, 223.
+Bibliography
+"A Bittersweet and Fancy Flight." Philadelphia Inquirer, 7 March 1990, p. 1.
+Crickmore, Paul F. "Blackbirds in the Cold War". Air International, January 2009, pp. 30–38. Stamford, UK: Key Publishing.
+Crickmore, Paul F. "Lockheed's Blackbirds – A-12, YF-12 and SR-71A". Wings of Fame, Volume 8, 1997, pp. 30–93. London: Aerospace Publishing. ISBN 1-86184-008-X.
+Donald, David, ed. "Lockheed's Blackbirds: A-12, YF-12 and SR-71". Black Jets. AIRtime, 2003. ISBN 1-880588-67-6.
+Goodall, James. Lockheed's SR-71 "Blackbird" Family. Hinckley, UK: Aerofax/Midland Publishing, 2003. ISBN 1-85780-138-5.
+Graham, Richard H. SR-71 Blackbird: Stories, Tales, and Legends. North Branch, Minnesota: Zenith Imprint, 2002. ISBN 0-7603-1142-0.
+Graham, Richard H. SR-71 Revealed: The Inside Story. St. Paul, Minnesota: MBI Publishing Company, 1996. ISBN 978-0-7603-0122-7.
+Graham, Richard H. SR-71: The Complete Illustrated History of the Blackbird, The World's Highest, Fastest Plane 2013. ISBN 978-0760343272.
+Jenkins, Dennis R. Lockheed Secret Projects: Inside the Skunk Works. St. Paul, Minnesota: MBI Publishing Company, 2001. ISBN 978-0-7603-0914-8.
+Johnson, C.L. Kelly: More Than My Share of it All. Washington, DC: Smithsonian Books, 1985. ISBN 0-87474-491-1.
+Landis, Tony R. and Dennis R. Jenkins. Lockheed Blackbirds. Minneapolis, Minnesota: Specialty Press, revised edition, 2005. ISBN 1-58007-086-8.
+McIninch, Thomas. "The Oxcart Story". Center for the Study of Intelligence, Central Intelligence Agency, 2 July 1996. Retrieved: 10 April 2009.
+Merlin, Peter W. From Archangel to Senior Crown: Design and Development of the Blackbird., Reston, Virginia: American Institute of Aeronautics and Astronautics (AIAA), 2008. ISBN 978-1-56347-933-5.
+Merlin, Peter W. "The Truth is Out There... SR-71 Serials and Designations". Air Enthusiast, No. 118, July/August 2005. Stamford, UK: Key Publishing, pp. 2–6. ISSN 0143-5450.
+Pace, Steve. Lockheed SR-71 Blackbird. Swindon, UK: Crowood Press, 2004. ISBN 1-86126-697-9.
+Remak, Jeannette and Joe Ventolo Jr. A-12 Blackbird Declassified. St. Paul, Minnesota: MBI Publishing Company, 2001. ISBN 0-7603-1000-9.
+Rich, Ben R. and Leo Janos. Skunk Works: A Personal Memoir of My Years at Lockheed. New York: Little, Brown and Company, 1994. ISBN 0-316-74330-5.
+Shul, Brian and Sheila Kathleen O'Grady. Sled Driver: Flying the World's Fastest Jet. Marysville, California: Gallery One, 1994. ISBN 0-929823-08-7.
+Shul, Brian and Walter Watson Jr. The Untouchables. Chico, California: Mach 1, Inc. 1993. ISBN 0-929823-12-5.
+Suhler, Paul A. From RAINBOW to GUSTO: Stealth and the Design of the Lockheed Blackbird (Library of Flight Series) . Reston, Virginia: American Institute of Aeronautics and Astronautics (AIAA), 2009. ISBN 978-1-60086-712-5.
+Additional sources
+
+Brandt, Steven A., Randall J. Stiles and John J. Bertin. Introduction to Aeronautics: A Design Perspective. Reston, Virginia: American Institute of Aeronautics & Astronautics, 2004, pp. 141–150. ISBN 1-56347-701-7.
+Brown, Kevin V. "America's SuperSecret Spy Plane." Popular Mechanics, June 1968, pp. 59–62, 190.
+Clarkson, Jeremy. I Know You Got Soul. London: Penguin Books Limited, 2006. ISBN 0-14-102292-2.
+Crickmore, Paul F. Lockheed Blackbird: Beyond the Secret Missions. Oxford, UK: Osprey Publishing, 2004. ISBN 1-84176-694-1.
+Crickmore, Paul and Jim Laurier. Lockheed SR-71 Operations in the Far East. Oxford, UK: Osprey Publishing, 2008. ISBN 1-84603-319-5.
+Darwall, Bjarne. Luftens Dirigenter(Air Conductors) (in Swedish). Nässjö, Sweden: Air Historic Research AB, 2004. ISBN 91-973892-6-9.
+Goodall, James and Jay Miller. "Lockheed's SR-71 'Blackbird' Family A-12, F-12, M-21, D-21, SR-71". Hinckley, UK: AeroFax-Midland Publishing, 2002. ISBN 1-85780-138-5.
+Grant, R.G. Flight: 100 Years of Aviation. New York: DK Publishing, 2007. ISBN 978-0-7566-1902-2.
+Hobson, Chris. Vietnam Air Losses, USAF, USN, USMC, Fixed-Wing Aircraft Losses in Southeast Asia 1961–1973. North Branch, Minnesota: Specialty Press, 2001. ISBN 1-85780-115-6.
+Merlin, Peter W. Design and Development of the Blackbird: Challenges and Lessons Learned. Orlando, Florida: American Institute of Aeronautics and Astronautics (AIAA), 2009. AIAA 2009-1522.
+Merlin, Peter W. Mach 3+: NASA USAF YF-12 Flight Research 1969–1979. Washington, D.C.: Diane Publishing Co., NASA History Division Office, 2002. ISBN 1-4289-9458-0.
+Pappas, Terry. "The Blackbird is Back." Popular Mechanics, June 1991, pp. 27–31, 104–105.
+Periscope Film Com. Sr-71 Blackbird Pilot's Flight Manual. Lulu.com, 2006. ISBN 1-4116-9937-8.
+Reithmaier, Lawrence W. Mach 1 and Beyond. New York: McGraw-Hill, 1994, pp. 220–237. ISBN 0-07-052021-6.
+External links
+	Wikimedia Commons has media related to SR-71 Blackbird.
+Robert R. Ropelewski (18 May 1981). "SR-71 Impressive in High-speed Regime" (PDF). Aviation Week & Space Technology. Pilot Report.
+Roger Mola (20 November 2014). "What a Blackbird Drinks". Air & Space Magazine. Air & Space/Smithsonian.
+"Blackbird Diaries". Air & Space Magazine. Air & Space/Smithsonian. December 2014.
+Paul Kucher. "SR-71 Online".
+"The Online Blackbird Museum".
+vte
+Lockheed and Lockheed Martin aircraft and spacecraft
+vte
+USAAS/USAAC/USAAF/USAF bomber designations, Army/Air Force and Tri-Service systems
+vte
+United States military reconnaissance aircraft designations, Army/Air Force and Tri-Service systems
+Categories: Lockheed aircraft1960s United States military reconnaissance aircraftTwinjetsTailless delta-wing aircraftNASA aircraftSignals intelligenceAircraft first flown in 1964Stealth aircraft
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+In other projects
+Wikimedia Commons
+Print/export
+Create a book
+Download as PDF
+Printable version
+
+Languages
+العربية
+বাংলা
+Español
+Bahasa Indonesia
+עברית
+മലയാളം
+Русский
+தமிழ்
+中文
+41 more
+Edit links
+This page was last edited on 1 December 2019, at 00:48 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki

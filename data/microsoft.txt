@@ -1,0 +1,553 @@
+
+Page semi-protected
+Microsoft
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Microsoft Corporation
+A square divided into four sub-squares, colored red, green, yellow and blue (clockwise), with the company name appearing to its right.
+Building92microsoft.jpg
+Building 92 on the Microsoft Redmond campus
+Type
+Public
+Traded as
+NASDAQ: MSFT
+NASDAQ-100 component
+DJIA component
+S&P 100 component
+S&P 500 component
+ISIN	US5949181045
+Industry
+Software development
+Computer hardware
+Consumer electronics
+Social networking service
+Cloud computing
+Video games
+Internet
+Corporate venture capital
+Founded	April 4, 1975; 44 years ago in Albuquerque, New Mexico, U.S.
+Founders
+Bill Gates
+Paul Allen
+Headquarters	One Microsoft Way, Redmond, Washington, US
+Area served
+Worldwide
+Key people
+John W. Thompson
+(chairman)
+Satya Nadella
+(CEO)
+Brad Smith
+(president)
+Bill Gates
+(technical advisor)
+Products
+WindowsOfficeServersSkypeVisual StudioDynamicsXboxSurfaceMobileList of software
+Services
+AzureBingLinkedInYammerMSDNOffice 365OneDriveOutlook.comGitHubTechNetPayMicrosoft StoreWindows UpdateXbox Game PassXbox Live
+Revenue	Increase US$125.8 billion[1] (2019)
+Operating income
+Increase US$43.0 billion[1] (2019)
+Net income
+Increase US$39.2 billion[1] (2019)
+Total assets	Increase US$286.55 billion[1] (2019)
+Total equity	Increase US$102.33 billion[1] (2019)
+Owner	BlackRock (0.03), Steve Ballmer (0.04), Bill Gates (0.04), The Vanguard Group (0.06), Capital Group Companies (0.05), State Street Corporation (0.04) Edit this on Wikidata
+Number of employees
+Increase 148,465[2] (2019)
+Website	www.microsoft.com
+Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. In 2016, it was the world's largest software maker by revenue (currently Alphabet/Google has more revenue).[3] The word "Microsoft" is a portmanteau of "microcomputer" and "software".[4] Microsoft is ranked No. 30 in the 2018 Fortune 500 rankings of the largest United States corporations by total revenue.[5]
+
+Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Microsoft Windows. The company's 1986 initial public offering (IPO), and subsequent rise in its share price, created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made a number of corporate acquisitions, their largest being the acquisition of LinkedIn for $26.2 billion in December 2016,[6] followed by their acquisition of Skype Technologies for $8.5 billion in May 2011.[7]
+
+As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android.[8] The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).
+
+Steve Ballmer replaced Gates as CEO in 2000, and later envisioned a "devices and services" strategy.[9] This unfolded with Microsoft acquiring Danger Inc. in 2008,[10] entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and has instead focused on cloud computing, a move that helped the company's shares reach its highest value since December 1999.[11][12]
+
+In 2018, Microsoft surpassed Apple Inc. as the most valuable publicly traded company in the world after having been dethroned by Apple in 2010.[13] In April 2019, Microsoft reached the trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon respectively.[14] Microsoft is the world's most valuable company.[15][circular reference]
+
+
+Contents
+1	History
+1.1	1972–1985: The founding of Microsoft
+1.2	1985–1994: Windows and Office
+1.3	1995–2007: Foray into the Web, Windows 95, Windows XP, and Xbox
+1.4	2007–2011: Microsoft Azure, Windows Vista, Windows 7, and Microsoft Stores
+1.5	2011–2014: Windows 8/8.1, Xbox One, Outlook.com, and Surface devices
+1.6	2014–present: Windows 10, Microsoft Edge and HoloLens
+2	Corporate affairs
+2.1	Board of directors
+2.2	Financial
+2.3	Marketing
+2.4	Layoffs
+2.5	United States government
+3	Corporate identity
+3.1	Corporate culture
+3.2	Environment
+3.3	Headquarters
+3.4	Flagship stores
+3.5	Logo
+3.6	Sponsorship
+4	See also
+5	References
+6	External links
+History
+Main articles: History of Microsoft, Timeline of Microsoft, and Microsoft Windows version history
+1972–1985: The founding of Microsoft
+
+Paul Allen and Bill Gates pose for the camera on October 19, 1981, surrounded by PCs after signing a pivotal contract with IBM.[16]:228
+Childhood friends Bill Gates and Paul Allen sought to make a business utilizing their shared skills in computer programming.[17] In 1972 they founded their first company, named Traf-O-Data, which sold a rudimentary computer to track and analyze automobile traffic data. While Gates enrolled at Harvard, Allen pursued a degree in computer science at Washington State University, though he later dropped out of school to work at Honeywell.[18] The January 1975 issue of Popular Electronics featured Micro Instrumentation and Telemetry Systems's (MITS) Altair 8800 microcomputer,[19] which inspired Allen to suggest that they could program a BASIC interpreter for the device. After a call from Gates claiming to have a working interpreter, MITS requested a demonstration. Since they didn't yet have one, Allen worked on a simulator for the Altair while Gates developed the interpreter. Although they developed the interpreter on a simulator and not the actual device, it worked flawlessly when they demonstrated the interpreter in March 1975 to MITS in Albuquerque, New Mexico. MITS agreed to distribute it, marketing it as Altair BASIC.[16]:108, 112–114 Gates and Allen officially established Microsoft on April 4, 1975, with Gates as the CEO.[20] The original name of "Micro-Soft" (short for microcomputer software) was suggested by Allen.[21][22] In August 1977 the company formed an agreement with ASCII Magazine in Japan, resulting in its first international office, "ASCII Microsoft".[23] Microsoft moved its headquarters to Bellevue, Washington in January 1979.[20]
+
+Microsoft entered the operating system (OS) business in 1980 with its own version of Unix, called Xenix.[24] However, it was MS-DOS that solidified the company's dominance. After negotiations with Digital Research failed, IBM awarded a contract to Microsoft in November 1980 to provide a version of the CP/M OS, which was set to be used in the upcoming IBM Personal Computer (IBM PC).[25] For this deal, Microsoft purchased a CP/M clone called 86-DOS from Seattle Computer Products, which it branded as MS-DOS, although IBM rebranded it to IBM PC DOS. Following the release of the IBM PC in August 1981, Microsoft retained ownership of MS-DOS. Since IBM had copyrighted the IBM PC BIOS, other companies had to reverse engineer it in order for non-IBM hardware to run as IBM PC compatibles, but no such restriction applied to the operating systems. Due to various factors, such as the software selection available for MS-DOS, Microsoft eventually became the leading PC operating systems vendor.[26][27]:210 The company expanded into new markets with the release of the Microsoft Mouse in 1983, as well as with a publishing division named Microsoft Press.[16]:232 Paul Allen resigned from Microsoft in 1983 after developing Hodgkin's disease.[28] Allen claimed, in his book Idea Man: A Memoir by the Co-founder of Microsoft, that Gates wanted to dilute his share in the company when he was diagnosed with Hodgkin's disease because he didn't think he was working hard enough.[29] Allen later invested in low-tech sectors, sports teams, commercial real estate, neuroscience, private spaceflight and more.[30]
+
+1985–1994: Windows and Office
+
+Windows 1.0 was released on November 20, 1985 as the first version of the Microsoft Windows line
+Despite having begun jointly developing a new operating system, OS/2, with IBM in August 1985,[31] Microsoft released Microsoft Windows, a graphical extension for MS-DOS, on November 20.[16]:242–243, 246 Microsoft moved its headquarters from Bellevue to Redmond, Washington, on February 26, 1986, and on March 13 went public,[32] with the resulting rise in stock making an estimated four billionaires and 12,000 millionaires from Microsoft employees.[33] Microsoft released its version of OS/2 to original equipment manufacturers (OEMs) on April 2, 1987.[16] In 1990, due to the partnership with IBM, the Federal Trade Commission set its eye on Microsoft for possible collusion, marking the beginning of over a decade of legal clashes with the U.S. government.[34] :243–244 Meanwhile, the company was at work on a 32-bit OS, Microsoft Windows NT, which was heavily based on their copy of the OS/2 code. It shipped on July 21, 1993, with a new modular kernel and the Win32 application programming interface (API), making porting from 16-bit (MS-DOS-based) Windows easier. Once Microsoft informed IBM of NT, the OS/2 partnership deteriorated.[35]
+
+In 1990, Microsoft introduced its office suite, Microsoft Office. The suite bundled separate productivity applications, such as Microsoft Word and Microsoft Excel.[16]:301 On May 22, Microsoft launched Windows 3.0, featuring streamlined user interface graphics and improved protected mode capability for the Intel 386 processor.[36] Both Office and Windows became dominant in their respective areas.[37][38]
+
+On July 27, 1994, the U.S. Department of Justice, Antitrust Division filed a Competitive Impact Statement that said, in part: "Beginning in 1988, and continuing until July 15, 1994, Microsoft induced many OEMs to execute anti-competitive "per processor" licenses. Under a per processor license, an OEM pays Microsoft a royalty for each computer it sells containing a particular microprocessor, whether the OEM sells the computer with a Microsoft operating system or a non-Microsoft operating system. In effect, the royalty payment to Microsoft when no Microsoft product is being used acts as a penalty, or tax, on the OEM's use of a competing PC operating system. Since 1988, Microsoft's use of per processor licenses has increased."[39]
+
+1995–2007: Foray into the Web, Windows 95, Windows XP, and Xbox
+
+In 1996, Microsoft released Windows CE, a version of the operating system meant for personal digital assistants and other tiny computers.
+Following Bill Gates' internal "Internet Tidal Wave memo" on May 26, 1995, Microsoft began to redefine its offerings and expand its product line into computer networking and the World Wide Web.[40] With a few exceptions of new companies, like Netscape, Microsoft was the only major and established company that acted fast enough to be a part of the World Wide Web practically from the start. Other companies like Borland, WordPerfect, Novell, IBM and Lotus, being much slower to adapt to the new situation, would give Microsoft a market dominance.[41] The company released Windows 95 on August 24, 1995, featuring pre-emptive multitasking, a completely new user interface with a novel start button, and 32-bit compatibility; similar to NT, it provided the Win32 API.[42][43]:20 Windows 95 came bundled with the online service MSN, which was at first intended to be a competitor to the Internet,[dubious – discuss] and (for OEMs) Internet Explorer, a Web browser. Internet Explorer was not bundled with the retail Windows 95 boxes, because the boxes were printed before the team finished the Web browser, and instead was included in the Windows 95 Plus! pack.[44] Branching out into new markets in 1996, Microsoft and General Electric's NBC unit created a new 24/7 cable news channel, MSNBC.[45] Microsoft created Windows CE 1.0, a new OS designed for devices with low memory and other constraints, such as personal digital assistants.[46] In October 1997, the Justice Department filed a motion in the Federal District Court, stating that Microsoft violated an agreement signed in 1994 and asked the court to stop the bundling of Internet Explorer with Windows.[16]:323–324
+
+
+Microsoft released the first installment in the Xbox series of consoles in 2001. The Xbox, graphically powerful compared to its rivals, featured a standard PC's 733 MHz Intel Pentium III processor.
+On January 13, 2000, Bill Gates handed over the CEO position to Steve Ballmer, an old college friend of Gates and employee of the company since 1980, while creating a new position for himself as Chief Software Architect.[16]:111, 228[20] Various companies including Microsoft formed the Trusted Computing Platform Alliance in October 1999 to (among other things) increase security and protect intellectual property through identifying changes in hardware and software. Critics decried the alliance as a way to enforce indiscriminate restrictions over how consumers use software, and over how computers behave, and as a form of digital rights management: for example the scenario where a computer is not only secured for its owner, but also secured against its owner as well.[47][48] On April 3, 2000, a judgment was handed down in the case of United States v. Microsoft Corp.,[49] calling the company an "abusive monopoly."[50] Microsoft later settled with the U.S. Department of Justice in 2004.[32] On October 25, 2001, Microsoft released Windows XP, unifying the mainstream and NT lines of OS under the NT codebase.[51] The company released the Xbox later that year, entering the video game console market dominated by Sony and Nintendo.[52] In March 2004 the European Union brought antitrust legal action against the company, citing it abused its dominance with the Windows OS, resulting in a judgment of €497 million ($613 million) and requiring Microsoft to produce new versions of Windows XP without Windows Media Player: Windows XP Home Edition N and Windows XP Professional N.[53][54] In November 2005, the company's second video game console, the Xbox 360, was released. There were two versions, a basic version for $299.99 and a deluxe version for $399.99.[55]
+
+2007–2011: Microsoft Azure, Windows Vista, Windows 7, and Microsoft Stores
+
+CEO Steve Ballmer at the MIX event in 2008. In an interview about his management style in 2005, he mentioned that his first priority was to get the people he delegates to in order. Ballmer also emphasized the need to continue pursuing new technologies even if initial attempts fail, citing the original attempts with Windows as an example.[56]
+Released in January 2007, the next version of Windows, Vista, focused on features, security and a redesigned user interface dubbed Aero.[57][58] Microsoft Office 2007, released at the same time, featured a "Ribbon" user interface which was a significant departure from its predecessors. Relatively strong sales of both products helped to produce a record profit in 2007.[59] The European Union imposed another fine of €899 million ($1.4 billion) for Microsoft's lack of compliance with the March 2004 judgment on February 27, 2008, saying that the company charged rivals unreasonable prices for key information about its workgroup and backoffice servers. Microsoft stated that it was in compliance and that "these fines are about the past issues that have been resolved".[60] 2007 also saw the creation of a multi-core unit at Microsoft, following the steps of server companies such as Sun and IBM.[61]
+
+Gates retired from his role as Chief Software Architect on June 27, 2008, a decision announced in June 2006, while retaining other positions related to the company in addition to being an advisor for the company on key projects.[62][63] Azure Services Platform, the company's entry into the cloud computing market for Windows, launched on October 27, 2008.[64] On February 12, 2009, Microsoft announced its intent to open a chain of Microsoft-branded retail stores, and on October 22, 2009, the first retail Microsoft Store opened in Scottsdale, Arizona; the same day Windows 7 was officially released to the public. Windows 7's focus was on refining Vista with ease-of-use features and performance enhancements, rather than an extensive reworking of Windows.[65][66][67]
+
+As the smartphone industry boomed in 2007, Microsoft had struggled to keep up with its rivals Apple and Google in providing a modern smartphone operating system. As a result, in 2010 Microsoft revamped their aging flagship mobile operating system, Windows Mobile, replacing it with the new Windows Phone OS. Microsoft implemented a new strategy for the software industry that had them working more closely with smartphone manufacturers, such as Nokia, and providing a consistent user experience across all smartphones using the Windows Phone OS. It used a new user interface design language, codenamed "Metro", which prominently used simple shapes, typography and iconography, utilizing the concept of minimalism. Microsoft is a founding member of the Open Networking Foundation started on March 23, 2011. Fellow founders were Google, HP Networking, Yahoo!, Verizon Communications, Deutsche Telekom and 17 other companies. This nonprofit organization is focused on providing support for a new cloud computing initiative called Software-Defined Networking.[68] The initiative is meant to speed innovation through simple software changes in telecommunications networks, wireless networks, data centers and other networking areas.[69]
+
+2011–2014: Windows 8/8.1, Xbox One, Outlook.com, and Surface devices
+
+Surface Pro 3, part of the Surface series of laplets by Microsoft
+Following the release of Windows Phone, Microsoft undertook a gradual rebranding of its product range throughout 2011 and 2012, with the corporation's logos, products, services and websites adopting the principles and concepts of the Metro design language.[70] Microsoft unveiled Windows 8, an operating system designed to power both personal computers and tablet computers, in Taipei in June 2011.[71] A developer preview was released on September 13, which was subsequently replaced by a consumer preview on February 29, 2012, and released to the public in May.[72] The Surface was unveiled on June 18, becoming the first computer in the company's history to have its hardware made by Microsoft.[73][74] On June 25, Microsoft paid US$1.2 billion to buy the social network Yammer.[75] On July 31, they launched the Outlook.com webmail service to compete with Gmail.[76] On September 4, 2012, Microsoft released Windows Server 2012.[77]
+
+In July 2012, Microsoft sold its 50% stake in MSNBC, which it had run as a joint venture with NBC since 1996.[78] On October 1, Microsoft announced its intention to launch a news operation, part of a new-look MSN, with Windows 8 later in the month.[79] On October 26, 2012, Microsoft launched Windows 8 and the Microsoft Surface.[74][80] Three days later, Windows Phone 8 was launched.[81] To cope with the potential for an increase in demand for products and services, Microsoft opened a number of "holiday stores" across the U.S. to complement the increasing number of "bricks-and-mortar" Microsoft Stores that opened in 2012.[82] On March 29, 2013, Microsoft launched a Patent Tracker.[83]
+
+In August 2012, the New York City Police Department announced a partnership with Microsoft for the development of the Domain Awareness System which is used for Police surveillance in New York City.[84]
+
+
+The Xbox One console, released in 2013
+The Kinect, a motion-sensing input device made by Microsoft and designed as a video game controller, first introduced in November 2010, was upgraded for the 2013 release of the Xbox One video game console. Kinect's capabilities were revealed in May 2013: an ultra-wide 1080p camera, function in the dark due to an infrared sensor, higher-end processing power and new software, the ability to distinguish between fine movements (such as a thumb movements), and determining a user's heart rate by looking at their face.[85] Microsoft filed a patent application in 2011 that suggests that the corporation may use the Kinect camera system to monitor the behavior of television viewers as part of a plan to make the viewing experience more interactive. On July 19, 2013, Microsoft stocks suffered its biggest one-day percentage sell-off since the year 2000, after its fourth-quarter report raised concerns among the investors on the poor showings of both Windows 8 and the Surface tablet. Microsoft suffered a loss of more than US$32 billion.[86]
+
+In line with the maturing PC business, in July 2013, Microsoft announced that it would reorganize the business into four new business divisions, namely Operating System, Apps, Cloud, and Devices. All previous divisions will be dissolved into new divisions without any workforce cuts.[87] On September 3, 2013, Microsoft agreed to buy Nokia's mobile unit for $7 billion,[88] following Amy Hood taking the role of CFO.[89]
+
+2014–present: Windows 10, Microsoft Edge and HoloLens
+
+Satya Nadella succeeded Steve Ballmer as the CEO of Microsoft in February 2014
+On February 4, 2014, Steve Ballmer stepped down as CEO of Microsoft and was succeeded by Satya Nadella, who previously led Microsoft's Cloud and Enterprise division.[90] On the same day, John W. Thompson took on the role of chairman, in place of Bill Gates, who continued to participate as a technology advisor.[91] Thompson became the second chairman in Microsoft's history.[92] On April 25, 2014, Microsoft acquired Nokia Devices and Services for $7.2 billion.[93] This new subsidiary was renamed Microsoft Mobile Oy.[94] On September 15, 2014, Microsoft acquired the video game development company Mojang, best known for Minecraft, for $2.5 billion.[95] On June 8, 2017, Microsoft acquired Hexadite, an Israeli security firm, for $100 million.[96][97]
+
+On January 21, 2015, Microsoft announced the release of their first Interactive whiteboard, Microsoft Surface Hub.[98] On July 29, 2015, Windows 10 was released,[99] with its server sibling, Windows Server 2016, released in September 2016. In Q1 2015, Microsoft was the third largest maker of mobile phones, selling 33 million units (7.2% of all). While a large majority (at least 75%) of them do not run any version of Windows Phone— those other phones are not categorized as smartphones by Gartner – in the same time frame 8 million Windows smartphones (2.5% of all smartphones) were made by all manufacturers (but mostly by Microsoft).[100] Microsoft's share of the U.S. smartphone market in January 2016 was 2.7%.[101] During the summer of 2015 the company lost $7.6 billion related to its mobile-phone business, firing 7,800 employees.[102]
+
+On March 1, 2016, Microsoft announced the merger of its PC and Xbox divisions, with Phil Spencer announcing that Universal Windows Platform (UWP) apps would be the focus for Microsoft's gaming in the future.[103] On January 24, 2017, Microsoft showcased Intune for Education at the BETT 2017 education technology conference in London.[104] Intune for Education is a new cloud-based application and device management service for the education sector.[105] In May 2016, the company announced it was laying off 1,850 workers, and taking an impairment and restructuring charge of $950 million.[102] In June 2016, Microsoft announced a project named Microsoft Azure Information Protection. It aims to help enterprises protect their data as it moves between servers and devices.[106] In November 2016, Microsoft joined the Linux Foundation as a Platinum member during Microsoft's Connect(); developer event in New York.[107] The cost of each Platinum membership is US$500,000 per year.[108] Some analysts deemed this unthinkable ten years prior, however, as in 2001 then-CEO Steve Ballmer called Linux "cancer".[109] Microsoft planned to launch a preview of Intune for Education "in the coming weeks", with general availability scheduled for spring 2017, priced at $30 per device, or through volume licensing agreements.[110]
+
+
+The Nokia Lumia 1320, the Microsoft Lumia 535 and the Nokia Lumia 530, which all run on one of the now-discontinued Windows Phone operating systems
+In January 2018, Microsoft patched Windows 10 to account for CPU problems related to Intel's Meltdown security breach. The patch led to issues with the Microsoft Azure virtual machines reliant on Intel's CPU architecture. On January 12, Microsoft released PowerShell Core 6.0 for the macOS and Linux operating systems.[111] In February 2018, Microsoft killed notification support for their Windows Phone devices which effectively ended firmware updates for the discontinued devices.[111] In March 2018, Microsoft recalled Windows 10 S to change it to a mode for the Windows operating system rather than a separate and unique operating system. In March the company also established guidelines that censor users of Office 365 from using profanity in private documents.[111] In April 2018, Microsoft released the source code for Windows File Manager under the MIT License to celebrate the program's 20th anniversary. In April the company further expressed willingness to embrace open source initiatives by announcing Azure Sphere as its own derivative of the Linux operating system.[111] In May 2018, Microsoft partnered with 17 American intelligence agencies to develop products that track American citizens. The project is dubbed "Azure Government" and has ties to the Joint Enterprise Defense Infrastructure (JEDI) surveillance program.[111] On June 4, 2018, Microsoft officially announced the acquisition of GitHub for $7.5 billion, a deal that closed on October 26, 2018.[112][113] On July 10, 2018, Microsoft revealed the Surface Go platform to the public. Later in the month it converted Microsoft Teams to gratis.[111] In August 2018, Microsoft released two projects called Microsoft AccountGuard and Defending Democracy. It also unveiled Snapdragon 850 compatibility for Windows 10 on the ARM architecture.[114][115][111]
+
+
+Apollo 11 astronaut Buzz Aldrin using a Microsoft HoloLens mixed reality headset in September 2016
+In August 2018, Toyota Tsusho began a partnership with Microsoft to create fish farming tools using the Microsoft Azure application suite for Internet of things (IoT) technologies related to water management. Developed in part by researchers from Kindai University, the water pump mechanisms use artificial intelligence to count the number of fish on a conveyor belt, analyze the number of fish, and deduce the effectiveness of water flow from the data the fish provide. The specific computer programs used in the process fall under the Azure Machine Learning and the Azure IoT Hub platforms.[116] In September 2018, Microsoft discontinued Skype Classic.[111] On October 10, 2018, Microsoft joined the Open Invention Network community despite holding more than 60,000 patents.[117] In November 2018, Microsoft agreed to supply 100,000 Microsoft HoloLens headsets to the United States military in order to "increase lethality by enhancing the ability to detect, decide and engage before the enemy."[118] In November 2018, Microsoft introduced Azure Multi-Factor Authentication for Microsoft Azure.[119] In December 2018, Microsoft announced Project Mu, an open source release of the Unified Extensible Firmware Interface (UEFI) core used in Microsoft Surface and Hyper-V products. The project promotes the idea of Firmware as a Service.[120] In the same month, Microsoft announced the open source implementation of Windows Forms and the Windows Presentation Foundation (WPF) which will allow for further movement of the company toward the transparent release of key frameworks used in developing Windows desktop applications and software. December also saw the company discontinue the Microsoft Edge project in favor of Chromium backends for their browsers.[119]
+
+February 20, 2019 Microsoft Corp said it will offer its cyber security service AccountGuard to 12 new markets in Europe including Germany, France and Spain, to close security gaps and protect customers in political space from hacking.[121] In February 2019, hundreds of Microsoft employees protested the company's war profiteering from a $480 million contract to develop virtual reality headsets for the United States Army.[122]
+
+Corporate affairs
+See also: Criticism of Microsoft; Internet censorship in China; and Embrace, extend, and extinguish
+Board of directors
+The company is run by a board of directors made up of mostly company outsiders, as is customary for publicly traded companies. Members of the board of directors as of January 2018 are Bill Gates, Satya Nadella, Reid Hoffman, Hugh Johnston, Teri List-Stoll, Charles Noski, Helmut Panke, Sandi Peterson, Penny Pritzker, Charles Scharf, Arne Sorenson, John W. Stanton, John W. Thompson and Padmasree Warrior.[123] Board members are elected every year at the annual shareholders' meeting using a majority vote system. There are five committees within the board which oversee more specific matters. These committees include the Audit Committee, which handles accounting issues with the company including auditing and reporting; the Compensation Committee, which approves compensation for the CEO and other employees of the company; the Finance Committee, which handles financial matters such as proposing mergers and acquisitions; the Governance and Nominating Committee, which handles various corporate matters including nomination of the board; and the Antitrust Compliance Committee, which attempts to prevent company practices from violating antitrust laws.[124]
+
+Financial
+
+Five year history graph of NASDAQ: MSFT stock on July 17, 2013[125]
+When Microsoft went public and launched its Initial Public Offering (IPO) in 1986, the opening stock price was $21; after the trading day, the price closed at $27.75. As of July 2010, with the company's nine stock splits, any IPO shares would be multiplied by 288; if one were to buy the IPO today, given the splits and other factors, it would cost about 9 cents.[16]:235–236[126][127] The stock price peaked in 1999 at around $119 ($60.928, adjusting for splits).[128] The company began to offer a dividend on January 16, 2003, starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year, switching from yearly to quarterly dividends in 2005 with eight cents a share per quarter and a special one-time payout of three dollars per share for the second quarter of the fiscal year.[128][129] Though the company had subsequent increases in dividend payouts, the price of Microsoft's stock remained steady for years.[129][130]
+
+Standard & Poor's and Moody's Investors Service have both given a AAA rating to Microsoft, whose assets were valued at $41 billion as compared to only $8.5 billion in unsecured debt. Consequently, in February 2011 Microsoft released a corporate bond amounting to $2.25 billion with relatively low borrowing rates compared to government bonds.[131] For the first time in 20 years Apple Inc. surpassed Microsoft in Q1 2011 quarterly profits and revenues due to a slowdown in PC sales and continuing huge losses in Microsoft's Online Services Division (which contains its search engine Bing). Microsoft profits were $5.2 billion, while Apple Inc. profits were $6 billion, on revenues of $14.5 billion and $24.7 billion respectively.[132] Microsoft's Online Services Division has been continuously loss-making since 2006 and in Q1 2011 it lost $726 million. This follows a loss of $2.5 billion for the year 2010.[133]
+
+On July 20, 2012, Microsoft posted its first quarterly loss ever, despite earning record revenues for the quarter and fiscal year, with a net loss of $492 million due to a writedown related to the advertising company aQuantive, which had been acquired for $6.2 billion back in 2007.[134] As of January 2014, Microsoft's market capitalization stood at $314B,[135] making it the 8th largest company in the world by market capitalization.[136] On November 14, 2014, Microsoft overtook ExxonMobil to become the second most-valuable company by market capitalization, behind only Apple Inc. Its total market value was over $410B — with the stock price hitting $50.04 a share, the highest since early 2000.[137] In 2015, Reuters reported that Microsoft Corp had earnings abroad of $76.4 billion which were untaxed by the Internal Revenue Service. Under U.S. law, corporations don't pay income tax on overseas profits until the profits are brought into the United States.[138]
+
+Year	Revenue
+in mil. US$[139]	Net income
+in mil. US$[139]	Total Assets
+in mil. US$[139]	Employees[139]
+2005	39,788	12,254	70,815	61,000
+2006	44,282	12,599	69,597	71,000
+2007	51,122	14,065	63,171	79,000
+2008	60,420	17,681	72,793	91,000
+2009	58,437	14,569	77,888	93,000
+2010	62,484	18,760	86,113	89,000
+2011	69,943	23,150	108,704	90,000
+2012	73,723	16,978	121,271	94,000
+2013	77,849	21,863	142,431	99,000
+2014	86,833	22,074	172,384	128,000
+2015	93,580	12,193	174,472	118,000
+2016	91,154	20,539	193,468	114,000
+2017	96,571	25,489	250,312	124,000
+2018	110,360	16,571	258,848	131,000
+2019	125.843	39.240	286.556	144,106
+In November 2018, the company won a $480 million military contract with the U.S. government to bring augmented reality (AR) headset technology into the weapon repertoires of American soldiers. The two-year contract may result in follow-on orders of more than 100,000 headsets, according to documentation describing the bidding process. One of the contract's tag lines for the augmented reality technology seems to be its ability to enable "25 bloodless battles before the 1st battle", suggesting that actual combat training is going to be an essential aspect of the augmented reality headset capabilities.[140]
+
+Marketing
+
+Windows 8 Launch Event in Akihabara, Tokyo on October 25, 2012
+In 2004, Microsoft commissioned research firms to do independent studies comparing the total cost of ownership (TCO) of Windows Server 2003 to Linux; the firms concluded that companies found Windows easier to administrate than Linux, thus those using Windows would administrate faster resulting in lower costs for their company (i.e. lower TCO).[141] This spurred a wave of related studies; a study by the Yankee Group concluded that upgrading from one version of Windows Server to another costs a fraction of the switching costs from Windows Server to Linux, although companies surveyed noted the increased security and reliability of Linux servers and concern about being locked into using Microsoft products.[142] Another study, released by the Open Source Development Labs, claimed that the Microsoft studies were "simply outdated and one-sided" and their survey concluded that the TCO of Linux was lower due to Linux administrators managing more servers on average and other reasons.[143]
+
+As part of the "Get the Facts" campaign, Microsoft highlighted the .NET Framework trading platform that it had developed in partnership with Accenture for the London Stock Exchange, claiming that it provided "five nines" reliability. After suffering extended downtime and unreliability[144][145] the London Stock Exchange announced in 2009 that it was planning to drop its Microsoft solution and switch to a Linux-based one in 2010.[146][147]
+
+In 2012, Microsoft hired a political pollster named Mark Penn, whom The New York Times called "famous for bulldozing" his political opponents[148] as Executive Vice-President, Advertising and Strategy. Penn created a series of negative advertisements targeting one of Microsoft's chief competitors, Google. The advertisements, called "Scroogled", attempt to make the case that Google is "screwing" consumers with search results rigged to favor Google's paid advertisers, that Gmail violates the privacy of its users to place ad results related to the content of their emails and shopping results, which favor Google products. Tech publications like TechCrunch have been highly critical of the advertising campaign,[149] while Google employees have embraced it.[150]
+
+Layoffs
+Main article: Criticism of Microsoft
+In July 2014, Microsoft announced plans to lay off 18,000 employees. Microsoft employed 127,104 people as of June 5, 2014, making this about a 14 percent reduction of its workforce as the biggest Microsoft lay off ever. This included 12,500 professional and factory personnel. Previously, Microsoft had eliminated 5,800 jobs in 2009 in line with the Great Recession of 2008–2017.[151][152] In September 2014, Microsoft laid off 2,100 people, including 747 people in the Seattle–Redmond area, where the company is headquartered. The firings came as a second wave of the layoffs that were previously announced. This brought the total number to over 15,000 out of the 18,000 expected cuts.[153] In October 2014, Microsoft revealed that it was almost done with the elimination of 18,000 employees, which was its largest-ever layoff sweep.[154] In July 2015, Microsoft announced another 7,800 job cuts in the next several months.[155] In May 2016, Microsoft announced another 1,850 job cuts mostly in (Nokia) mobile phone division. As a result, the company will record an impairment and restructuring charge of approximately $950 million, of which approximately $200 million will relate to severance payments.[156]
+
+United States government
+Main article: Criticism of Microsoft
+Microsoft provides information about reported bugs in their software to intelligence agencies of the United States government, prior to the public release of the fix. A Microsoft spokesperson has stated that the corporation runs several programs that facilitate the sharing of such information with the U.S. government.[157] Following media reports about PRISM, NSA's massive electronic surveillance program, in May 2013, several technology companies were identified as participants, including Microsoft.[158] According to leaks of said program, Microsoft joined the PRISM program in 2007.[159] However, in June 2013, an official statement from Microsoft flatly denied their participation in the program:
+"We provide customer data only when we receive a legally binding order or subpoena to do so, and never on a voluntary basis. In addition we only ever comply with orders for requests about specific accounts or identifiers. If the government has a broader voluntary national security program to gather customer data, we don't participate in it."[160]
+
+During the first six months in 2013, Microsoft had received requests that affected between 15,000 and 15,999 accounts.[161] In December 2013, the company made statement to further emphasize the fact that they take their customers' privacy and data protection very seriously, even saying that "government snooping potentially now constitutes an "advanced persistent threat," alongside sophisticated malware and cyber attacks".[162] The statement also marked the beginning of three-part program to enhance Microsoft's encryption and transparency efforts. On July 1, 2014, as part of this program they opened the first (of many) Microsoft Transparency Center, that provides "participating governments with the ability to review source code for our key products, assure themselves of their software integrity, and confirm there are no "back doors."[163] Microsoft has also argued that the United States Congress should enact strong privacy regulations to protect consumer data.[164]
+
+In April 2016, the company sued the U.S. government, arguing that secrecy orders were preventing the company from disclosing warrants to customers in violation of the company's and customers' rights. Microsoft argued that it was unconstitutional for the government to indefinitely ban Microsoft from informing its users that the government was requesting their emails and other documents, and that the Fourth Amendment made it so people or businesses had the right to know if the government searches or seizes their property. On October 23, 2017, Microsoft said it would drop the lawsuit as a result of a policy change by the United States Department of Justice (DoJ). The DoJ had "changed data request rules on alerting Internet users about agencies accessing their information."
+
+Corporate identity
+Corporate culture
+Technical reference for developers and articles for various Microsoft magazines such as Microsoft Systems Journal (MSJ) are available through the Microsoft Developer Network (MSDN). MSDN also offers subscriptions for companies and individuals, and the more expensive subscriptions usually offer access to pre-release beta versions of Microsoft software.[165][166] In April 2004 Microsoft launched a community site for developers and users, titled Channel 9, that provides a wiki and an Internet forum.[167] Another community site that provides daily videocasts and other services, On10.net, launched on March 3, 2006.[168] Free technical support is traditionally provided through online Usenet newsgroups, and CompuServe in the past, monitored by Microsoft employees; there can be several newsgroups for a single product. Helpful people can be elected by peers or Microsoft employees for Microsoft Most Valuable Professional (MVP) status, which entitles them to a sort of special social status and possibilities for awards and other benefits.[169]
+
+Noted for its internal lexicon, the expression "eating your own dog food" is used to describe the policy of using pre-release and beta versions of products inside Microsoft in an effort to test them in "real-world" situations.[170] This is usually shortened to just "dog food" and is used as noun, verb, and adjective. Another bit of jargon, FYIFV or FYIV ("Fuck You, I'm [Fully] Vested"), is used by an employee to indicate they are financially independent and can avoid work anytime they wish.[171] The company is also known for its hiring process, mimicked in other organizations and dubbed the "Microsoft interview", which is notorious for off-the-wall questions such as "Why is a manhole cover round?".[172]
+
+Microsoft is an outspoken opponent of the cap on H-1B visas, which allow companies in the U.S. to employ certain foreign workers. Bill Gates claims the cap on H1B visas makes it difficult to hire employees for the company, stating "I'd certainly get rid of the H1B cap" in 2005.[173] Critics of H1B visas argue that relaxing the limits would result in increased unemployment for U.S. citizens due to H1B workers working for lower salaries.[174] The Human Rights Campaign Corporate Equality Index, a report of how progressive the organization deems company policies towards LGBT employees, rated Microsoft as 87% from 2002 to 2004 and as 100% from 2005 to 2010 after they allowed gender expression.[175]
+
+In August 2018, Microsoft implemented a policy for all companies providing subcontractors to require 12 weeks of paid parental leave to each employee. This expands on the former requirement from 2015 requiring 15 days of paid vacation and sick leave each year.[176] In 2015, Microsoft established its own parental leave policy to allow 12 weeks off for parental leave with an additional 8 weeks for the parent who gave birth.[177]
+
+Environment
+In 2011, Greenpeace released a report rating the top ten big brands in cloud computing on their sources of electricity for their data centers. At the time, data centers consumed up to 2% of all global electricity and this amount was projected to increase. Phil Radford of Greenpeace said "we are concerned that this new explosion in electricity use could lock us into old, polluting energy sources instead of the clean energy available today,"[178] and called on "Amazon, Microsoft and other leaders of the information-technology industry must embrace clean energy to power their cloud-based data centers."[179] In 2013, Microsoft agreed to buy power generated by a Texas wind project to power one of its data centers.[180] Microsoft is ranked on the 17th place in Greenpeace's Guide to Greener Electronics (16th Edition) that ranks 18 electronics manufacturers according to their policies on toxic chemicals, recycling and climate change.[181] Microsoft's timeline for phasing out brominated flame retardant (BFRs) and phthalates in all products is 2012 but its commitment to phasing out PVC is not clear. As of January 2011, it has no products that are completely free from PVC and BFRs.[182]
+
+Microsoft's main U.S. campus received a silver certification from the Leadership in Energy and Environmental Design (LEED) program in 2008, and it installed over 2,000 solar panels on top of its buildings at its Silicon Valley campus, generating approximately 15 percent of the total energy needed by the facilities in April 2005.[183] Microsoft makes use of alternative forms of transit. It created one of the world's largest private bus systems, the "Connector", to transport people from outside the company; for on-campus transportation, the "Shuttle Connect" uses a large fleet of hybrid cars to save fuel. The company also subsidizes regional public transport, provided by Sound Transit and King County Metro, as an incentive.[183][184] In February 2010 however, Microsoft took a stance against adding additional public transport and high-occupancy vehicle (HOV) lanes to the State Route 520 and its floating bridge connecting Redmond to Seattle; the company did not want to delay the construction any further.[185] Microsoft was ranked number 1 in the list of the World's Best Multinational Workplaces by the Great Place to Work Institute in 2011.[186]
+
+Headquarters
+
+The west campus of the Microsoft Redmond campus
+The corporate headquarters, informally known as the Microsoft Redmond campus, is located at One Microsoft Way in Redmond, Washington. Microsoft initially moved onto the grounds of the campus on February 26, 1986, weeks before the company went public on March 13. The headquarters has since experienced multiple expansions since its establishment. It is estimated to encompass over 8 million ft2 (750,000 m2) of office space and 30,000–40,000 employees.[187] Additional offices are located in Bellevue and Issaquah, Washington (90,000 employees worldwide). The company is planning to upgrade its Mountain View, California, campus on a grand scale. The company has occupied this campus since 1981. In 2016, the company bought the 32-acre campus, with plans to renovate and expand it by 25%.[188] Microsoft operates an East Coast headquarters in Charlotte, North Carolina.[189]
+
+Flagship stores
+
+Microsoft's Toronto flagship store
+On October 26, 2015, the company opened its retail location on Fifth Avenue in New York City. The location features a five-story glass storefront and is 22,270 square feet.[190] As per company executives, Microsoft had been on the lookout for a flagship location since 2009.[191] The company's retail locations are part of a greater strategy to help build a connection with its consumers. The opening of the store coincided with the launch of the Surface Book and Surface Pro 4.[192] On November 12, 2015, Microsoft opened a second flagship store, located in Sydney's Pitt Street Mall.[193]
+
+Logo
+Microsoft adopted the so-called "Pac-Man Logo", designed by Scott Baker, in 1987. Baker stated "The new logo, in Helvetica italic typeface, has a slash between the o and s to emphasize the "soft" part of the name and convey motion and speed."[194] Dave Norris ran an internal joke campaign to save the old logo, which was green, in all uppercase, and featured a fanciful letter O, nicknamed the blibbet, but it was discarded.[195] Microsoft's logo with the tagline "Your potential. Our passion." — below the main corporate name — is based on a slogan Microsoft used in 2008. In 2002, the company started using the logo in the United States and eventually started a television campaign with the slogan, changed from the previous tagline of "Where do you want to go today?"[196][197][198] During the private MGX (Microsoft Global Exchange) conference in 2010, Microsoft unveiled the company's next tagline, "Be What's Next."[199] They also had a slogan/tagline "Making it all make sense."[200]
+
+On August 23, 2012, Microsoft unveiled a new corporate logo at the opening of its 23rd Microsoft store in Boston, indicating the company's shift of focus from the classic style to the tile-centric modern interface, which it uses/will use on the Windows Phone platform, Xbox 360, Windows 8 and the upcoming Office Suites.[201] The new logo also includes four squares with the colors of the then-current Windows logo which have been used to represent Microsoft's four major products: Windows (blue), Office (red), Xbox (green) and Bing (yellow).[202] The logo resembles the opening of one of the commercials for Windows 95.[203][204]
+
+Microsoft logo history
+
+1975–1980: First Microsoft logo, in 1975
+
+
+
+1980–1982: Second Microsoft logo, in 1980
+
+
+
+1982–1987: Third Microsoft logo, in 1982
+
+
+
+1987–2012: Microsoft "Pac-Man" logo, designed by Scott Baker and used from 1987 to 2012[196][197]
+
+
+
+2012–present: Fifth Microsoft logo, introduced on August 23, 2012[205]
+
+Sponsorship
+The company was the official jersey sponsor of Finland's national basketball team at EuroBasket 2015.[206]
+
+See also
+List of investments by Microsoft Corporation
+List of mergers and acquisitions by Microsoft
+Microsoft engineering groups
+Microsoft Enterprise Agreement
+References
+ "Earnings Release FY19 Q4". Microsoft. July 18, 2019. Archived from the original on July 18, 2019. Retrieved July 19, 2019.
+ "Facts About Microsoft". Stories. Retrieved November 19, 2019.
+ "The World's Biggest Public Companies". Forbes. Archived from the original on April 10, 2015. Retrieved January 26, 2017.
+ "Microsoft Corporation". Encyclopædia Britannica. Archived from the original on June 18, 2015. Retrieved June 18, 2015.
+ "Fortune 500 Companies 2018: Who Made the List". Fortune. Archived from the original on November 10, 2018. Retrieved November 9, 2018.
+ "U.S. Securities and Exchange Commission – Linkedin". US SEC. December 8, 2016. Archived from the original on October 18, 2017. Retrieved April 29, 2018. As a result of the Merger, a change in control of [Linkedin] occurred and [Linkedin] became a wholly-owned subsidiary of [Microsoft]. The transaction resulted in the payment of approximately $26.4 billion in cash merger consideration.
+ "Microsoft confirms takeover of Skype". BBC. May 10, 2011. Archived from the original on June 20, 2018. Retrieved April 29, 2018.
+ Keizer, Gregg (July 14, 2014). "Microsoft gets real, admits its device share is just 14%". Computerworld. International Data Group. Archived from the original on August 21, 2016. [Microsoft's chief operating officer] Turner's 14% came from a new forecast released last week by Gartner, which estimated Windows' share of the shipped device market last year was 14%, and would decrease slightly to 13.7% in 2014. [..] Android will dominate, Gartner said, with a 48% share this year
+ Blodget, Henry (August 23, 2013). "And Microsoft Is Giving Up On The Software Business!". Business Insider Australia. Archived from the original on August 2, 2017. Retrieved August 2, 2017.
+ "Notify The Next Of Kin". InformationWeek. June 30, 2010. Archived from the original on April 24, 2014. Retrieved April 24, 2014.
+ "Microsoft sees shares hit record high". BBC. October 21, 2016. Archived from the original on October 16, 2017. Retrieved October 7, 2017.
+ "Microsoft's cloud focus could mean yet more layoffs". Engadget. Archived from the original on August 2, 2017. Retrieved October 7, 2017.
+ "How did Microsoft just overtake Apple as the world's most valuable company?". NBC News. Archived from the original on November 29, 2018. Retrieved November 28, 2018.
+ Levy, Ari (April 24, 2019). "Microsoft hits $1 trillion market cap after earnings beat estimates". CNBC. Archived from the original on April 24, 2019. Retrieved April 24, 2019.
+ "Market Capitalization 2019". Wikipedia. Retrieved October 19, 2019.
+ Allan, Roy A. (2001). A History of the Personal Computer. Allan Publishing. ISBN 978-0-9689108-0-1. Retrieved July 17, 2010.
+ "Bill Gates". Biography.com. Archived from the original on November 6, 2016. Retrieved November 8, 2016.
+ "Microsoft Company History". Archived from the original on August 6, 2013. Retrieved March 20, 2013.
+ Finucane, Martin (December 30, 2008). "Harvard Square newsstand sold the magazine that started a revolution". Boston.com. The New York Times Company. Archived from the original on January 1, 2009.
+ "Bill Gates: A Timeline". BBC News Online. BBC. July 15, 2006. Archived from the original on June 22, 2006. Retrieved July 17, 2010.
+ Schlender, Brent (October 2, 1995). "Bill Gates & Paul Allen Talk Check Out The Ultimate Buddy Act in Business History". Fortune. Time Inc. Archived from the original on May 3, 2011. Retrieved April 25, 2011.
+ Allen, Paul (2011). Paul Allen: Idea Man. Penguin Group. p. 91. ISBN 978-0-14-196938-1.
+ Staples, Betsy (August 1984). "Kay Nishi bridges the cultural gap". Creative Computing. 10 (8): 192. Archived from the original on May 11, 2011. Retrieved July 15, 2010.
+ Dyar, Dafydd Neal (November 4, 2002). "Under The Hood: Part 8". Computer Source. Archived from the original on September 1, 2006. Retrieved July 14, 2010.
+ Engines That Move Markets: Technology Investing from Railroads to the Internet and Beyond. John Wiley & Sons. 2002. ISBN 978-0-471-20595-1. Archived from the original on March 23, 2019. Retrieved February 8, 2018.
+ "Microsoft to Microsoft disk operating system (MS-DOS)". Smart Computing. Sandhills Publishing Company. 6 (3). March 2002. Archived from the original on April 5, 2004. Retrieved August 18, 2008.
+ Blaxill, Mark; Eckardt, Ralph (2009). The Invisible Edge: Taking Your Strategy to the Next Level Using Intellectual Property. Portfolio. p. 210. ISBN 978-1-59184-237-8. Archived from the original on March 23, 2019. Retrieved February 8, 2018.
+ "Paul Allen goes public with hard feelings toward Gates". The Seattle Times. Archived from the original on November 4, 2016. Retrieved January 4, 2018.
+ Wingfield, Nick; Guth, Robert A. (March 30, 2011). "Microsoft Co-Founder Hits Out at Gates". Wall Street Journal.
+ O'Connor, Clare. "10 Things You Didn't Know About Microsoft Billionaire Paul Allen, Seattle Seahawks Owner". Forbes. Archived from the original on February 2, 2018. Retrieved February 1, 2018.
+ "Microsoft OS/2 Announcement". April 10, 2010. Archived from the original on April 10, 2010. Retrieved August 9, 2017.
+ "Microsoft Chronology". CBS News. CBS Interactive. Archived from the original on November 5, 2008. Retrieved August 5, 2010.
+ Bick, Julie (May 29, 2005). "The Microsoft Millionaires Come of Age". The New York Times. Archived from the original on April 12, 2006. Retrieved July 3, 2006.
+ "U.S. v. Microsoft: Timeline". Wired. Condé Nast. November 4, 2002. Archived from the original on April 19, 2010. Retrieved July 17, 2010.
+ Thurrott, Paul (January 24, 2003). "Windows Server 2003: The Road To Gold". winsupersite.com. Penton Media. Archived from the original on June 4, 2010. Retrieved July 15, 2010.
+ Athow, Desire (May 22, 2010). "Microsoft Windows 3.0 Is 20 Years Old Today!!!". ITProPortal. Archived from the original on March 25, 2012. Retrieved April 4, 2012.
+ Miller, Michael (August 1, 1998). "OS Market Share 1993–2001 – Windows 98 Put to the Test". PC Magazine. Ziff Davis. Archived from the original on May 11, 2011. Retrieved July 3, 2010.
+ McCracken, Harry (September 13, 2000). "A Peek at Office Upgrade". PC World. IDG. Archived from the original on May 6, 2009. Retrieved July 4, 2006.
+ "Competitive Impact Statement : U.S. v. Microsoft Corporation". Justice.gov. Archived from the original on May 10, 2011. Retrieved May 11, 2011.
+ Borland, John (April 15, 2003). "Victor: Software empire pays high price". CNET. CBS Interactive. Archived from the original on November 16, 2011. Retrieved July 16, 2010.
+ Strebe, Matthew (February 20, 2006). Network Security Foundations: Technology Fundamentals for IT Success. ISBN 9780782151367. Archived from the original on March 23, 2019. Retrieved March 16, 2019.
+ Cope, Jim (March 1996). "New And Improved". Smart Computing. Sandhills Publishing Company. 4 (3). Archived from the original on July 6, 2004. Retrieved July 16, 2010.
+ Pietrek, Matt (March 1996). Windows 95 Programming Secrets. IDG. ISBN 978-1-56884-318-6. Retrieved July 17, 2010.
+ Thurrott, Paul (May 19, 2005). "MSN: The Inside Story". Supersite for Windows. Penton Media. Archived from the original on May 23, 2010. Retrieved July 17, 2010.
+ "Marketplace: News Archives". Marketplace. American Public Media. July 15, 1996. Archived from the original on August 23, 2004.
+ Tilly, Chris. "The History of Microsoft Windows CE". HPC:Factor. Archived from the original on September 21, 2008. Retrieved August 18, 2008.
+ Markoff, John (June 20, 2002). "Fears of Misuse of Encryption System Are Voiced". The New York Times. Archived from the original on May 11, 2011. Retrieved July 7, 2010.
+ Stajano, Frank (2003). Security for whom? The shifting security assumptions of pervasive computing (PDF). Software Security—Theories and Systems. Lecture Notes in Computer Science. 2609. Springer-Verlag Berlin Heidelberg. pp. 16–27. CiteSeerX 10.1.1.127.7219. doi:10.1007/3-540-36532-X_2. ISBN 978-3-540-00708-1. Archived (PDF) from the original on January 28, 2011. Retrieved July 6, 2010.
+ "United States v. Microsoft". U.S. Department of Justice. Archived from the original on August 4, 2005. Retrieved August 5, 2005.
+ Jackson, Thomas Penfield (November 5, 1999). "U.S. vs. Microsoft findings of fact". U.S. Department of Justice. Archived from the original on August 15, 2010. Retrieved August 18, 2008.
+ Thurrott, Paul (October 26, 2001). "WinInfo Short Takes: Windows XP Launch Special Edition". Windows IT Pro. Penton Media. Archived from the original on May 26, 2012. Retrieved July 16, 2010.
+ "NPD Reports Annual 2001 U.S. Interactive Entertainment Sales Shatter Industry Record" (Press release). Port Washington, New York: The NPD Group. February 7, 2002. Archived from the original on August 14, 2004. Retrieved January 28, 2015.
+ "Microsoft hit by record EU fine". CNN. March 25, 2004. Archived from the original on April 13, 2006. Retrieved August 14, 2010.
+ "Commission Decision of 24.03.2004 relating to a proceeding under Article 82 of the EC Treaty (Case COMP/C-3/37.792 Microsoft)" (PDF). Commission of the European Communities. April 21, 2004. Archived from the original on October 11, 2007. Retrieved August 5, 2005.
+ Morris, Game Over is a weekly column by Chris. "Microsoft sets price for Xbox 360 — Aug. 17, 2005". money.cnn.com. Archived from the original on April 25, 2018. Retrieved January 4, 2018.
+ Wee, Gerald (November 10, 2005). "Steve Ballmer on management style". ITWorld. IDG. CIO Asia. Archived from the original on May 14, 2011. Retrieved January 29, 2011.
+ Vamosi, Robert (January 23, 2007). "Windows Vista Ultimate review". CNET. CBS Interactive. Archived from the original on April 6, 2012. Retrieved April 4, 2012.
+ Ricadela, Aaron (February 14, 2006). "Gates Says Security Is Job One For Vista". InformationWeek. UBM TechWeb. Archived from the original on March 18, 2012. Retrieved April 4, 2012.
+ "Vista gives Microsoft view of record profit". Edinburgh Evening News. Johnston Press. April 27, 2007. Retrieved February 1, 2009.
+ "AFP:EU hits Microsoft with record 899 million euro antitrust fine". Google News. Agence France-Presse. February 27, 2008. Archived from the original on April 30, 2008. Retrieved June 1, 2008.
+ "Microsoft, Multi-core and the Data Center". Archived from the original on April 6, 2013. Retrieved March 18, 2013.
+ Conte, Natali Del (June 15, 2006). "Bill Gates Announces Resignation". PC Magazine. Ziff Davis. Archived from the original on April 20, 2010. Retrieved July 17, 2010.
+ Beaumont, Claudine (June 27, 2008). "Bill Gates steps down as Microsoft head to concentrate on philanthropy". The Telegraph. Archived from the original on March 13, 2016. Retrieved January 9, 2016.
+ Fried, Ina (October 27, 2008). "Microsoft launches Windows Azure". CNET. CBS Interactive. Archived from the original on May 10, 2011. Retrieved July 6, 2010.
+ Fried, Ina (February 12, 2009). "Microsoft follows Apple into the retail business". CNET. CBS Interactive. Archived from the original on May 10, 2011. Retrieved July 17, 2010.
+ Gaynor, Tim (October 22, 2009). "Long lines as Microsoft opens retail store". Reuters. Thomson Reuters. Archived from the original on February 4, 2011. Retrieved July 3, 2010.
+ Mintz, Jessica (October 22, 2009). "Windows 7 operating system makes its debut". NBCNews.com. NBCUniversal. Associated Press. Retrieved April 4, 2012.
+ Erickson, David (March 21, 2011). "Open Networking Foundation News Release". Openflow.org. Archived from the original on March 26, 2011. Retrieved May 29, 2011.
+ ""Google and other titans form Open Networking Foundation." Noyes, March 23, 2011". Computerworld. IDG. March 23, 2011. Archived from the original on April 6, 2011. Retrieved May 29, 2011.
+ "Windows Phone 7 Series UI Design & Interaction Guide". March 18, 2010. Archived from the original on May 27, 2013. Retrieved October 9, 2010.
+ "Microsoft releases final test version of Windows 8". Business Line. Kasturi & Sons. June 1, 2012. Archived from the original on August 28, 2012. Retrieved August 4, 2012.
+ Rosoff, Matt (January 5, 2011). "OK, So Windows 8 Is Coming To ARM Tablets ... Someday (MSFT)". San Francisco Chronicle. Archived from the original on June 29, 2011. Retrieved January 5, 2011.
+ Sullivan, Mark (June 18, 2012). "Microsoft Announces New 'Surface' Tablet PC". PCWorld. Archived from the original on February 8, 2013. Retrieved June 19, 2012.
+ Eichenwald, Kurt, "Microsoft's Lost Decade: How Microsoft Lost Its Mojo" Archived August 16, 2013, at the Wayback Machine, Vanity Fair, August 2012
+ Acohido, Byron (June 25, 2012). "Microsoft buys Internet startup Yammer for $1.2 billion". USA Today. Gannett Company. Archived from the original on June 26, 2012. Retrieved June 25, 2012.
+ Thurrott, Paul (July 31, 2012). "Outlook.com Mail: Microsoft Reimagines Webmail". Supersite for Windows. Penton Media. Archived from the original on August 3, 2012. Retrieved August 1, 2012.
+ "Windows Server 2012 "Save the Date" Announcement". Microsoft. August 8, 2012. Archived from the original on November 7, 2013.
+ Venkatesan, Adithya; Mukherjee, Supantha; Leske, Nicola (July 16, 2012). "Comcast buys Microsoft stake in MSNBC.com". Reuters. Archived from the original on February 13, 2015. Retrieved February 13, 2015.
+ Rigby, Bill (October 1, 2012). "Microsoft launching news operation, new MSN". Reuters. Archived from the original on October 2, 2012. Retrieved October 1, 2012.
+ "Windows 8's delivery date: October 26". ZDNet. July 18, 2012. Archived from the original on September 19, 2012. Retrieved September 17, 2012.
+ "Mary Jo Foley: Windows Phone 8 launch date revealed". LiveSide.net. August 30, 2012. Archived from the original on November 3, 2012. Retrieved November 27, 2012.
+ "Microsoft prepping for complete brand and product line relaunch, New York store coming the 26th". wpcentral.com. October 2, 2012. Archived from the original on November 2, 2012. Retrieved November 3, 2012.
+ "Microsoft launches 'Patent Tracker' to help you search its library of intellectual property". The Next Web. March 28, 2013. Archived from the original on March 31, 2013. Retrieved March 29, 2013.
+ Moore, ROCCO PARASCANDOLA and Tina. "NYPD unveils new $40 million super computer system that uses data from network of cameras, license plate readers and crime reports". nydailynews.com. Retrieved June 15, 2019.
+ Pierce, David (May 21, 2013). "The all-seeing Kinect: tracking my face, arms, body and heart on the Xbox One". The Verge. Vox Media. Archived from the original on June 7, 2013. Retrieved May 28, 2013.
+ "Funky Friday: More than $32 billion in Microsoft stock value wiped out | Microsoft — CNET News". News.cnet.com. Archived from the original on August 22, 2013. Retrieved July 21, 2013.
+ "Microsoft's sweeping reorganization shifts focus to services, devices". July 11, 2013. Archived from the original on October 26, 2013. Retrieved October 28, 2013.
+ "Microsoft buying Nokia's phone business in a $7.2 billion bid for its mobile future". September 3, 2013. Archived from the original on September 29, 2017. Retrieved September 5, 2017.
+ "Microsoft names insider Amy Hood as CFO". Reuters. Reuters.com. May 8, 2013. Archived from the original on April 9, 2014. Retrieved April 18, 2014.
+ "Microsoft CEO Steve Ballmer to retire within 12 months". August 23, 2013. Archived from the original on August 23, 2013.
+ David, Javier E (February 5, 2014). "Nadella named new Microsoft CEO as Gates era ends". NBCNews.com. NBCUniversal. Archived from the original on February 5, 2014.
+ Edwards, Breanna. "John W. Thompson to Become 1st Black Chairman of Microsoft". The Root. Archived from the original on February 2, 2018. Retrieved February 1, 2018.
+ "Microsoft to close its acquisition of Nokia's devices and services business on April 25". The Economic Times. April 22, 2014. Archived from the original on August 5, 2016. Retrieved May 25, 2016.
+ Borges, Andre (April 21, 2014). "Nokia phone division to be renamed Microsoft Mobile, reveals leaked letter". dna. Archived from the original on October 15, 2016. Retrieved May 25, 2016.
+ Hutchinson, Lee (September 15, 2014). "It's official: Microsoft acquires Mojang and Minecraft for $2.5 billion". Ars Technica. Archived from the original on September 19, 2014. Retrieved September 19, 2014.
+ Dellinger, AJ (June 8, 2017). "Microsoft Buys Cybersecurity Company Hexadite To Respond To Cyberattacks". International Business Times. Archived from the original on June 8, 2017. Retrieved June 9, 2017.
+ "Microsoft agrees to buy U.S.-Israeli cyber firm Hexadite". Reuters. June 8, 2017. Archived from the original on June 9, 2017. Retrieved June 9, 2017.
+ Frumusanu, Ian Cutress, Andrei. "Microsoft at MWC 2015: Lumia 640 and 640 XL Announced, 4K 120Hz Surface Hub Demoed". Archived from the original on September 27, 2015. Retrieved September 27, 2015.
+ Howse, Brett (July 29, 2015). "Windows 10 Launches Worldwide". AnandTech. Archived from the original on June 24, 2016. Retrieved May 25, 2016.
+ "Gartner Says Emerging Markets Drove Worldwide Smartphone Sales to 19 Percent Growth in First Quarter of 2015" (Press release). Gartner. May 27, 2015. Archived from the original on June 14, 2015. Retrieved July 28, 2015.
+ Howley, Daniel (May 25, 2016). "Microsoft needs to change its mobile strategy or get out". Yahoo! Tech. Archived from the original on May 27, 2016. Retrieved May 26, 2016.
+ Greene, Jay (May 25, 2016). "Microsoft to Streamline Smartphone Hardware Business". The Wall Street Journal. Archived from the original on May 25, 2016. Retrieved May 25, 2016.
+ Stuart, Keith (March 2016). "Microsoft to unify PC and Xbox One platforms, ending fixed console hardware". The Guardian. Guardian Media Group. Archived from the original on December 17, 2016. Retrieved December 12, 2016.
+ Mehdi, Yusuf (January 24, 2017). "Announcing Intune for Education & new Windows 10 PCs for school starting at $189". The Official Microsoft Blog. Archived from the original on January 25, 2017. Retrieved January 25, 2017.
+ Frederic Lardinois (January 24, 2017). "Microsoft launches Intune for Education to counter Google's Chromebooks in schools". TechCrunch. Archived from the original on January 25, 2017. Retrieved January 25, 2017.
+ "Microsoft announces new data protection tool to help enterprises secure their data". Tech Crunch. June 22, 2016. Archived from the original on June 22, 2016. Retrieved June 23, 2016.
+ "Microsoft has joined the Linux Foundation". Archived from the original on November 25, 2016. Retrieved November 24, 2016.
+ "Microsoft joined linux foundation with yearly platinum membership". Lock SSL. Archived from the original on February 2, 2017. Retrieved November 24, 2016.
+ Warren, Tom (November 11, 2016). "Microsoft joins the Linux Foundation, 15 years after Ballmer called it 'cancer'". The Verge. Vox Media. Archived from the original on August 16, 2017. Retrieved August 18, 2017.
+ Andy Weir (January 24, 2017). "Microsoft introduces Intune for Education, promising simple setup and management of devices". Neowin. Archived from the original on January 27, 2017. Retrieved January 25, 2017.
+ "Microsoft's 2018, part 1: Open source, wobbly Windows and everyone's going to the cloud". Archived from the original on January 3, 2019. Retrieved January 3, 2019.
+ "Microsoft to acquire GitHub for $7.5 billion". Microsoft. June 4, 2018. Archived from the original on June 4, 2018.
+ "Microsoft completes GitHub acquisition". www.msn.com. Archived from the original on January 12, 2019. Retrieved April 10, 2019.
+ Hackett, Robert (August 21, 2018). "Microsoft Offers Free Cybersecurity Tools to Political Candidates—But You've Got to Be a Microsoft Customer". Archived from the original on August 22, 2018. Retrieved August 24, 2018.
+ Lerman, Rachel (August 20, 2018). "Microsoft releases new security tools for political campaigns to combat hacking attempts". The Seattle Times. Archived from the original on August 24, 2018. Retrieved August 24, 2018.
+ "Google goes bilingual, Facebook fleshes out translation and TensorFlow is dope — And, Microsoft is assisting fish farmers in Japan". Archived from the original on September 2, 2018. Retrieved September 2, 2018.
+ "Microsoft has signed up to the Open Invention Network. We repeat. Microsoft has signed up to the OIN". Archived from the original on October 11, 2018. Retrieved October 14, 2018.
+ "See this, Google? Microsoft happy to take a half-billion in sweet, sweet US military money to 'increase lethality'". Archived from the original on November 30, 2018. Retrieved November 30, 2018.
+ "Microsoft's 2018, part 2: Azure data centres heat up and Windows 10? It burns! It burns!". Archived from the original on January 4, 2019. Retrieved January 3, 2019.
+ "Microsoft announces Project Mu, an open-source release of the UEFI core". Archived from the original on December 21, 2018. Retrieved December 22, 2018.
+ Microsoft expands political security service to 12 European countries Archived February 20, 2019, at the Wayback Machine, Reuters (February 20, 2019)
+ Wong, Julia Carrie (February 22, 2019). "'We won't be war profiteers': Microsoft workers protest $480m army contract". The Guardian. Archived from the original on February 23, 2019. Retrieved February 23, 2019.
+ "Microsoft Board of Directors". Microsoft News Center (Press release). Microsoft. Archived from the original on July 22, 2019. Retrieved July 28, 2019.
+ "Microsoft Corporation Corporate Governance Guidelines". Microsoft. July 1, 2009. Archived from the original on April 10, 2010. Retrieved July 18, 2010.
+ "Five year history graph of (NASDAQ:MSFT) stock". ZenoBank. AlphaTrade. September 29, 2009. Archived from the original on October 30, 2008. Retrieved September 29, 2009.
+ Monkman, Carol Smith (March 14, 1986). "Microsoft stock is red hot on first trading day". Seattle Post-Intelligencer. Hearst Seattle Media, LLC. p. B9. Archived from the original on February 21, 2010. Retrieved July 18, 2010.
+ "MSFT stock performance and split info". Morningstar, Inc. Archived from the original on May 10, 2011. Retrieved July 17, 2010.
+ "Microsoft stock price spreadsheet from Microsoft investor relations". Microsoft. Archived from the original (xls) on October 10, 2009. Retrieved August 18, 2008.
+ "Dividend Frequently Asked Questions". Microsoft. Archived from the original on July 20, 2008. Retrieved August 18, 2008.
+ "Yahoo MSFT stock chart". Yahoo Finance. Archived from the original on January 23, 2008. Retrieved December 13, 2008.
+ "Microsoft sells $2.25 billion of debt at low rates". Reuters. February 4, 2011. Archived from the original on November 7, 2015. Retrieved July 1, 2017.
+ Arthur, Charles (April 28, 2011). "Microsoft falls behind Apple for first time in 20 years". The Guardian. London: Guardian Media Group. Archived from the original on October 19, 2013. Retrieved May 11, 2011.
+ MG Siegler Apr 29, 2011 (April 29, 2011). "When Will Microsoft's Internet Bloodbath End?". Techcrunch.com. Archived from the original on May 10, 2011. Retrieved May 11, 2011.
+ White, Martha. "Microsoft reports first quarterly loss ever". Archived from the original on July 20, 2012. Retrieved July 20, 2012.
+ "Microsoft Overview". Marketwatch. Archived from the original on February 2, 2014. Retrieved February 2, 2014.
+ "Global Top 100 Companies". PWC. Archived from the original on February 12, 2014. Retrieved February 2, 2014.
+ "Microsoft Surpasses Exxon as 2nd Most Valuable Co". AssociatedPress. Archived from the original on May 2, 2015. Retrieved November 14, 2014.
+ "Untaxed U.S. corporate profits held overseas top $2.1 trillion: study". Reuters. April 9, 2014. Archived from the original on November 14, 2015. Retrieved July 1, 2017.
+ "Microsoft Investor Relations — Annual Reports". www.microsoft.com. Archived from the original on November 7, 2018. Retrieved November 7, 2018.
+ "Microsoft wins $480M military contract to outfit soldiers with HoloLens AR tech". TechCrunch. Archived from the original on November 29, 2018. Retrieved November 29, 2018.
+ Bishop, Todd (January 27, 2004). "Studies on Linux help their patron: Microsoft". Seattle Post-Intelligencer. Hearst Seattle Media, LLC. Archived from the original on December 5, 2010. Retrieved July 16, 2010.
+ Foley, Mary Jo (March 24, 2004). "Yankee Independently Pits Windows TCO vs. Linux TCO". eWeek. Archived from the original on January 4, 2013. Retrieved July 14, 2010.
+ Jaques, Robert (February 13, 2006). "Linux fans hit back at Microsoft TCO claims". vnunet.com. Archived from the original on July 24, 2008. Retrieved August 18, 2008.
+ Mason, Rowena (September 10, 2008). "Seven-hour LSE blackout caused by double glitch". The Telegraph. London. Archived from the original on December 25, 2017. Retrieved April 3, 2018.
+ "London Stock Exchange trading hit by technical glitch". BBC News Online. BBC. November 26, 2009. Archived from the original on July 26, 2013. Retrieved September 30, 2010.
+ Williams, David M. (October 8, 2009). "London Stock Exchange gets the facts and dumps Windows for Linux". ITWire. Archived from the original on July 16, 2011. Retrieved September 30, 2010.
+ "London Stock Exchange Rejects .NET For Open Source". Slashdot. October 6, 2009. Archived from the original on August 11, 2011. Retrieved September 30, 2010.
+ Wingfield, Nick (December 14, 2012). "Microsoft Battles Google by Hiring Political Brawler Mark Penn". The New York Times. Archived from the original on March 12, 2017. Retrieved February 19, 2017.
+ "Scroogled: Why So Negative, Microsoft?". TechCrunch. February 10, 2013. Archived from the original on March 17, 2014. Retrieved April 18, 2014.
+ Hill, Kashmir (November 21, 2013). "Googlers Love Microsoft's 'Scroogled' Gear. Mug and Shirts Sell Out". Forbes. Archived from the original on July 29, 2017. Retrieved September 5, 2017.
+ "Microsoft to cut up to 18,000 jobs over next year". July 17, 2014. Archived from the original on July 27, 2014. Retrieved July 17, 2014.
+ "Microsoft Layoffs Greater Than Expected: Up to 18,000 Jobs Being Cut". Gamespot. July 17, 2014. Archived from the original on July 22, 2014. Retrieved August 10, 2014.
+ By Alex Wilhelm, TechCrunch. "Lays Off 2,100 More Employees." September 18, 2014. September 18, 2014.
+ Perez, Juan Carlos (October 29, 2014). "Microsoft is 'almost' done with its largest-ever layoff sweep". Computerworld. International Data Group. Archived from the original on November 4, 2014. Retrieved November 10, 2014.
+ Souppouris, Aaron. "Microsoft plans 7,800 layoffs, $7.8 billion Nokia write-down". Archived from the original on July 11, 2015. Retrieved July 8, 2014.
+ Corp., Microsoft. "Microsoft announces streamlining of smartphone hardware business". Archived from the original on December 2, 2016. Retrieved November 8, 2016.
+ "U.S. Agencies Said to Swap Data With Thousands of Firms". Bloomberg. Archived from the original on January 12, 2015. Retrieved March 10, 2017.
+ Neal, Ryan W. (July 11, 2013). "Snowden Reveals Microsoft PRISM Cooperation: Helped NSA Decrypt Emails, Chats, Skype Conversations". International Business Times. Archived from the original on December 3, 2013. Retrieved November 15, 2013.
+ Greenwald, Glenn; MacAskill, Ewen (June 7, 2013). "NSA Prism program taps in to user data of Apple, Google and others". The Guardian. Guardian News and Media Limited. Archived from the original on August 18, 2006. Retrieved April 26, 2014.
+ Johnson, Kevin; Martin, Scott; O'Donnell, Jayne; Winter, Michael (June 15, 2013). "Reports: NSA Siphons Data from 9 Major Net Firms". USA Today. Archived from the original on June 7, 2013. Retrieved June 6, 2013.
+ "Microsoft, Facebook, Google and Yahoo release US surveillance requests". The Guardian. February 3, 2014. Archived from the original on January 6, 2017. Retrieved December 12, 2016.
+ Smith, Brad (December 4, 2013). "Protecting customer data from government snooping". The Official Microsoft Blog. Archived from the original on December 24, 2014. Retrieved January 1, 2015.
+ Thomlinson, Matt (July 1, 2014). "Advancing our encryption and transparency efforts". Microsoft on the Issues. Archived from the original on January 1, 2015. Retrieved January 1, 2015.
+ Heiner, David. "Request for Comment: Big Data and Consumer Privacy in the Internet Economy" (PDF). National Telecommunications and Information Administration. Microsoft. Archived (PDF) from the original on August 14, 2014. Retrieved August 12, 2014.
+ "MSDN Subscription FAQ". Microsoft. Archived from the original on January 12, 2009. Retrieved July 3, 2006.
+ "Microsoft Systems Journal Homepage". Microsoft. April 15, 2004. Archived from the original on July 25, 2008. Retrieved August 18, 2008.
+ Hobson, Neville (April 11, 2005). "Microsoft's Channel 9 And Cultural Rules". WebProNews. iEntry Inc. Archived from the original on April 20, 2008. Retrieved July 3, 2006.
+ "On10.net homepage". Microsoft. Archived from the original on April 28, 2006. Retrieved May 4, 2006.
+ Bray, Hiawatha (June 13, 2005). "Somehow, Usenet lumbers on". The Boston Globe. Archived from the original on March 22, 2009. Retrieved July 3, 2006.
+ "Microsoft tests its own dog food". ZDNet. CBS Interactive. July 21, 2003. Archived from the original on January 8, 2007. Retrieved October 9, 2005.
+ Heilemann, John (November 2000). "The Truth, The Whole Truth, and Nothing But The Truth". Wired. Condé Nast. Archived from the original on July 24, 2008. Retrieved September 30, 2007.
+ Poundstone, William (May 21, 2003). "Square Manhole Covers and Crazy Questions". G4TV.com. Archived from the original on November 14, 2005. Retrieved July 1, 2006.
+ Mark, Roy (April 27, 2005). "Gates Rakes Congress on H1B Visa Cap". internetnews.com. Archived from the original on June 10, 2008. Retrieved August 18, 2008.
+ "Bill Gates Targets Visa Rules for Tech Workers". NPR. March 12, 2008. Archived from the original on April 24, 2010. Retrieved July 6, 2010.
+ "Corporate Equality Index Archive". Human Rights Campaign Foundation. Archived from the original on July 3, 2010. Retrieved July 17, 2010.
+ Dreyfuss, Emily (August 31, 2018). "Will Others Follow Microsoft's Lead on Paid Parental Leave?". WIRED. Archived from the original on September 1, 2018. Retrieved September 1, 2018.
+ Kastrenakes, Jacob (August 31, 2018). "Microsoft says its US contractors must offer paid parental leave". The Verge. Archived from the original on September 1, 2018. Retrieved September 1, 2018.
+ "Dirty Data Report Card" (PDF). Greenpeace. Archived (PDF) from the original on September 10, 2013. Retrieved August 22, 2013.
+ "Amazon, Microsoft: Let's keep 'the cloud' clean" Archived December 4, 2013, at the Wayback Machine, Phil Radford
+ "Microsoft looks to boost eco credentials with wind-powered data centre" Archived January 6, 2017, at the Wayback Machine, Suzanne Goldenberg
+ "Guide to Greener Electronics – Greenpeace International (16th Edition)". Greenpeace International. Archived from the original on March 31, 2012. Retrieved April 3, 2012.
+ "Ranking tables October 2010 – Greenpeace International" (PDF). Greenpeace International. Archived (PDF) from the original on January 28, 2011. Retrieved January 24, 2011.
+ Mills, Elinor (June 6, 2008). "Microsoft vs. Google: Who's greener?". CNET. CBS Interactive. Retrieved July 3, 2010.
+ "Fostering Alternative Ways to Commute at Microsoft". Microsoft. Archived from the original on May 1, 2008.
+ "Seattle hires consultant to look at 520 bridge plan". King5 Television News. February 23, 2010. Archived from the original on February 26, 2010. Retrieved July 3, 2010.
+ Tu, Janet I. (October 28, 2011). "Microsoft Pri0 | Microsoft named best multinational workplace". Seattle Times Newspaper. Archived from the original on July 11, 2012. Retrieved November 3, 2011.
+ Fast Facts About Microsoft Archived August 9, 2007, at the Wayback Machine. Microsoft.com. Retrieved on August 25, 2013.
+ Nagel, Allison (January 25, 2016). "Microsoft To Buy, Expand Mountain View Campus". Bisnow Media. Archived from the original on February 4, 2019. Retrieved February 3, 2019.
+ "Microsoft East Coast Headquarters — Safway Services". safway.com. Archived from the original on March 29, 2017. Retrieved March 28, 2017.
+ "Your First Look at Microsoft's Massive New Flagship Store". Wired. Condé Nast. October 26, 2015. Archived from the original on October 27, 2015. Retrieved October 27, 2015.
+ Morris, Keiko. "Microsoft Opens Flagship Store on Fifth Avenue". Wall Street Journal. ISSN 0099-9660. Archived from the original on October 26, 2015. Retrieved October 27, 2015.
+ "Microsoft opens the doors to its New York City flagship store". The Verge. Archived from the original on October 26, 2015. Retrieved October 27, 2015.
+ Chanthadavong, Aimee (April 21, 2015). "Microsoft to open flagship store in Sydney". Archived from the original on January 1, 2016. Retrieved December 30, 2015.
+ Jha, Lakshman (2008). Customer Relationship Management: A Strategic Approach. Global India Publications. p. 218. ISBN 978-81-907211-2-7. Archived from the original on March 23, 2019. Retrieved May 1, 2015.
+ Osterman, Larry (July 14, 2005). "Remember the blibbet". Larry Osterman's WebLog. Microsoft. Archived from the original on August 3, 2008. Retrieved August 18, 2008.
+ "The Rise and Rise of the Redmond Empire". Wired. Condé Nast. December 1998. Archived from the original on November 6, 2012. Retrieved August 18, 2008.
+ Schmelzer, Randi (January 9, 2006). "McCann Thinks Local for Global Microsoft". Adweek. Archived from the original on August 28, 2012. Retrieved August 18, 2008.
+ Reimer, Jeremy (January 23, 2006). "Microsoft set to launch new marketing campaign". Ars Technica. Condé Nast Digital. Archived from the original on September 18, 2008. Retrieved August 18, 2008.
+ Topolsky, Joshua (July 22, 2010). "New Microsoft brand logos, company tagline revealed at MGX event? (update: no new logos, tagline is a go)". Engadget. AOL. Archived from the original on August 16, 2012. Retrieved August 2, 2012.
+ InfoWorld Media Group, Inc. (1991). InfoWorld. InfoWorld Media Group, Inc. p. 26. Archived from the original on March 23, 2019. Retrieved September 5, 2017.
+ Meisner, Jeffrey (August 23, 2012). "Microsoft Unveils a New Look". The Official Microsoft Blog. Archived from the original on August 25, 2012. Retrieved August 23, 2012.
+ Eric, Steven H. (August 23, 2012). "NEW MICROSOFT LOGO REVEALED". Flapship.com. Archived from the original on August 25, 2012. Retrieved August 23, 2012.
+ "Microsoft's new logo has ties to the past". Archived from the original on September 21, 2013. Retrieved September 13, 2012.
+ "Microsoft's logo is not new, it's from 1995". Archived from the original on July 28, 2013. Retrieved September 13, 2012.
+ "Microsoft Unveils a New Look". Microsoft. August 2012. Archived from the original on August 25, 2012. Retrieved August 23, 2012.
+ Finland | EuroBasket 2015 Archived September 28, 2015, at the Wayback Machine, FIBA.com, Retrieved September 27, 2015.
+External links
+Microsoft
+at Wikipedia's sister projects
+Media from Wikimedia Commons
+News from Wikinews
+Quotations from Wikiquote
+Resources from Wikiversity
+Official website Edit this at Wikidata
+Business data for Microsoft Corporation: Google FinanceYahoo! FinanceReutersSEC filings
+Microsoft companies grouped at OpenCorporates
+vte
+Microsoft
+Links to related articles
+Industry5.svgCompanies portalFlag of the United States.svgUnited States portal
+Authority control Edit this at Wikidata
+BNE: XX121178BNF: cb120673486 (data)CANTIC: a11919863GND: 5003949-0ISNI: 0000 0001 2181 3404LCCN: n86810571NDL: 00322150NKC: kn20020321575NLA: 35928074NLI: 000093139SELIBR: 347184SUDOC: 030109434Trove: 1149675ULAN: 500333090VIAF: 148809628WorldCat Identities (via VIAF): 148809628
+Coordinates: 47°38′23″N 122°7′42″W
+
+Categories: Companies in the NASDAQ-100 IndexCompanies listed on NASDAQMicrosoft1975 establishments in New Mexico1980s initial public offeringsAmerican companies established in 1975Business software companiesCloud computing providersCompanies based in Redmond, WashingtonCompanies in the Dow Jones Industrial AverageCompanies in the PRISM networkComputer companies established in 1975Computer hardware companiesCRM software companiesElectronics companies established in 1975Electronics companies of the United StatesERP software companiesMobile phone manufacturersMultinational companies headquartered in the United StatesSoftware companies based in Washington (state)Software companies established in 1975Supply chain software companiesTechnology companies established in 1975Technology companies of the United StatesWeb service providers
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadView sourceView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+In other projects
+Wikimedia Commons
+Wikinews
+Wikiquote
+Print/export
+Create a book
+Download as PDF
+Printable version
+
+Languages
+বাংলা
+ગુજરાતી
+हिन्दी
+ಕನ್ನಡ
+മലയാളം
+मराठी
+தமிழ்
+తెలుగు
+اردو
+136 more
+Edit links
+This page was last edited on 29 November 2019, at 10:31 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
